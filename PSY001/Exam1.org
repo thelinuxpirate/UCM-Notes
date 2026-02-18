@@ -1,0 +1,547 @@
+#+title: PSY001
+* Chapter 1 | Intro to PSY
+- Psy is a science & a profession
+
+No single prespective will explain everything, you must be skeptical
+Measure "how we know what we know" & be willing to change your view
+
+- Scientific Method is very important in PSY
+
+ # TODO: reread slides & put in information
+* Chapter 3 | BioPSY
+Study of the brain/nervous system
+
+** Nuerons
+Central Nervous System:
+- Brain & spinal cord
+
+Peripheral Nervous System:
+- Everything outside of CNS
+
+Salt & Potasium needed to make your membrane's electrical charge function
+
+Axon = message sending cable from a nueron
+Nerve = bundle of Axons
+
+Signal from Soma/Base->Axon->Terminal Buttons
+Action Potential doesn't weaken
+
+Fire Rate = Energy/Dopamine sent to a neurotransmitter to help you
+
+Dopamine = Pleasure
+Serotonin = Mood/Sleep/Appetite
+Acetylcholine = Muscle Action/Memory
+GABA = Calming effect
+Glutamate = Learning/Memory
+Norepinephrine Alertness/Stress Response
+
+** Cells
+Glial Cells
+*Astrocytes---star shaped cells, provide support & needed chemicals*
+- Engulf & digest debris in process of phagocytosis
+*Oligodendrocytes*
+- Provide support to axons; produces myelin sheath
+- Node of Ranvier—the bare portion of the axon in between myelin sheath
+*Microglia*
+- Act as phagocytes; & protect brain•Acts as part of the immune system in the brain
+- Primarily responsible for inflammatory reaction during brain damage / injury
+
+Supporting Cells
+PNS:
+- Schwann cells provide one segment of myelin sheath; entire cell surrounds the axon
+- Chemical composition of myelin differs between CNS & PNS
+** Brain
+Major Parts:
+*Cerebrum*
+Higher thinking, voluntary actions
+- Largest part of the brain
+- Responsible for thinking
+- Divided between left & right, each side controls each side of the body
+*Cerebellum*
+- Coordination, balance
+*Brainstem*
+- Basic life functions (breathing, heartbeat)
+
+Cerebral Cortex
+- Site of conscious thought, perception, & complex behaviors
+- Outermost layer; divided into 4 lobes:
+
+  Frontal (Front side of brain)
+  - Planning/reasoning
+  Parietal (Top Middle)
+  - Sensory Information
+  Temporal (Sides | Close to Ears)
+  - Hearing/Language/Memory
+  Occipital (Back of brain)
+  - Vision
+
+*Brainstem*
+Part under the brain (the stem)
+- Connects brain to spinal cord
+- Controls basic life functions (breathing etc)
+- Consists of the midbrain, pons, & medulla oblongata
+
+** Nerves/PSYSystems
+*Cranial Nerves*
+- 12 pairs in ventral surface of brain
+- Controls sensory information in your head, neck, & thoracic cavities
+*Spinal Nerves*
+Afferent axons:
+- SENSORY INFORMATION toward the CNS (absorb information into brain)
+Efferent axons:
+- Send information outward (brain to muscles)
+
+*Autonomic Nervous System (ANS)*
+- Branch of PNS relating to smooth muscles, cardiac muscles, & glands
+- Links physical states to psychological experiences
+Effects:
+- Heart Rate Increases
+- Breathing Rate Increases
+- Pupil Dilates
+- Blood Flow redirects to muscles
+
+*Endocrine System*
+- Communicates via hormones | that act like nuerotransmitters
+- Hormones travel a long distance unlike a nuerotransmitter
+- Contains different signal types
+*Glands*
+- Pituitary | Base of Brain | Growth Hormone/Master Gland
+- Thyroid | Neck | Thyroxine | Regulates metabolism & energy
+- Adrenal | Above Kidneys | Adrenaline | Stress Response
+- Pancreas | Abdomen | Insulin, glucagon | Regulates your blood sugar
+- Gonads | Ovaries/Testes | Estrogen, Testosterone | Sexual Development
+** Genes/Mental Development
+*Genotype V Phenotype*
+- Genotype  | Your unique genetic makeup (the code)
+- Phenotype | The observable traits & behaviors that result from the interaction of your genotype with the environment
+
+Nature & Nurture (environment/raised) play a role in your upcoming
+Brain is hardwired to understand language at a young age
+
+*Genes Influencing Behavior*
+- Directly
+Genes can affect brain structure, neurotransmitter levels, hormone production, & physical traits that influence behavior
+- Indirectly
+Genes may make people more or less sensitive to certain environments (stress, learning opportunities)
+** Brain Injuries
+Phineas Gage - Construction worker working on rocks that blow up & damaged his brain
+It showed that when your frontal lobes were injured that are crucial for personality, self-control, & planning
+
+* Chapter 9 | Lifespan Development
+Lifespan Development- Study of how people grow: Physically, congnitivley, emotionally, socially
+Key Parts:
+- Physical: Growth of Motor Skills
+- Cognitive: Learning Language
+- Psychosocial: Emotions
+
+People are like plastic, they can change; adapt across life
+Development occurs within cultural, historical, economic, & social contexts
+Opens jobs to education, counseling & social work
+** 8 Stages of Life
+*** Prenatal Stage         (Begins at conception & ends at birth)
+Most rapid period of growth
+Divided into 3 periods:
+- Germinal (first 2 weeks): cell division & implantation.
+- Embryonic(weeks 3–8): organ & system formation.
+- Fetal(weeks 9–birth): growth & refinement of organs.
+*** Infancy & Toddlerhood  (0–2 Years)
+- Pyhsical Development: Rapid brain development, sensory & motor skills
+- Cognitive: Language development begins
+- Psychosocial: Attachment to caregivers is critical
+*** Early Childhood        (2-6 Years)
+- Physical: Continued motor skill refinement (running, drawing).
+- Cognitive: Preoperational thinking (Piaget) symbolic play, egocentrism.
+- Psychosocial: Increasing independence, gender identity forms, peer relationships begin.
+
+*** Middle Childhood       (6-12 Years)
+- Physical: Steady growth
+- Cognitive: Logical Thinking
+- Psychosocial: Self-concept develops; friendships deepen; importance of school increases.
+Puberty begins, & baby teeth fall out
+*** Adolescence            (12-18 Years)
+- Puberty: Period of rapid physical changes triggered by hormones (estrogen/testosterone).
+- Brain Development: Prefrontal cortex (decision-making, impulse control) matures later.
+- Sleep Shifts: Sleep later, wake up later
+Adolescence is marked by both physical & cognitive maturation NOT emotional balence
+Better planning, self-control, still struggle with impulsivity
+*** Early Adulthood        (20s-40s)
+- Physical: Peak physical condition, then gradual decline.
+- Cognitive: Postformal thought may emerge; continued education/career development.
+- Psychosocial: Intimacy vs. isolation (Erikson); focus on love, partnership, & career building.
+
+Brain fully developed by ~= 25
+Lifestyle choices impact your life
+Reprodictive Peak
+*** Middle Adulthood       (40s-60s)
+- Physical: Noticeable aging signs; possible health issues.
+- Cognitive: Stable abilities; expertise may grow.
+- Psychosocial: Generativity vs. stagnation (Erikson); focus on parenting, mentoring, contribution to society.
+
+Muscle mass decreases, metabolism slows down, vision/hearing decline
+Menopause: End of menstration for women
+Health risks increase
+*** Late Adulthood         (60s-End of life)
+- Physical: Slower processing, sensory decline, health conditions more common.
+- Cognitive: Possible decline in memory or speed, but wisdom may increase.
+- Psychosocial: Integrity vs. despair (Erikson); reflection on life, coping with loss & aging
+
+- Noticeable physical decline: Loss of bone density, flexibility, sensory abilities.
+- Brain shrinkage: Especially in the hippocampus & prefrontal cortex; processing speed slows.
+- Neurodegenerative Disorders: Risk increases (e.g., Alzheimer’s, Parkinson’s).
+- "Successful Aging": Staying mentally, physically, & socially active is linked to better outcomes.
+** Cognitive Development
+NOT just limited to childhood development as you are constantly growing
+
+- Crystallized intelligence: (knowledge from experience) typically remains stable or improves with age.
+- Fluid intelligence: (problem-solving, speed of processing) may decline gradually in later years.
+Older Adults show wisdom & better emotional regulation
+
+*Late Adulthood:*
+- Processing speedand working memory decline.
+- Semantic memory(facts, vocabulary) often remains strong.
+- Some experience cognitive impairment(e.g., mild cognitive decline, Alzheimer’s).
+
+** Theories of Human Development
+Human development is guided by several major theoretical frameworks
+*** Psychosocial Development
+Psychosocial Development = how we form our identity in the 8 stages of life
+
+Erickson's Stages
+- Trust v Mistrust (Birth-1)
+- Autonomy vs. Shame/Doubt (1-3)
+- Initiative vs. Guilt (3-6)
+- Industry vs. Inferiority (6-12)
+- Identity vs. Role Confusion (Adolescence)
+- Intimacy vs. Isolation (Early Adulthood)
+- Generativity vs. Stagnation (Middle Adulthood)
+- Integrity vs. Despair (Late Adulthood)
+
+Each stage builds upon the previous one
+Psychosocial development centers around resolving lifes social & emotional challenges
+Erickson's Stages are a helpful guide but NOT linear
+** Core Conflict Emotions
+Generativity: Desire & ability to contribute positively to society & support the development of others, especially younger people.
+Stagnation: Sense of being stuck, unproductive, or disconnected from meaningful contribution.
+
+Integrity: Coming to terms with one’s life as meaningful & well-lived,accepting both accomplishments & shortcomings.
+Despair: Arises when individuals look back & feel regret, bitterness, or a sense that life was wasted.
+** Cognitive Development Theory - Jean Piaget
+Idea: Children move through four stages of cognitive development.
+
+- Sensorimotor (Birth-2)
+- Preoperational (2-7, Children arent fully logical/mature)
+- Concrete Operational (7-11)
+- Formal Operational (12+)
+*** Preoperational Thinking
+- Symbolic Thinking:
+  Children can use symbols such as words, images, & objects to represent things that are not physically present.
+- Language Development:
+  Rapid growth in vocabulary & language skills occurs as children use words to express their ideas & represent the world symbolically.
+- Egocentrism:
+  Children have difficulty seeing things from perspectives other than their own. They often assume others see, think, & feel exactly as they do.
+- Animism:
+  Children may believe that inanimate objects have feelings, thoughts, or intentions (e.g., thinking a teddy bear feels sad).
+- Centration:
+  Focus on one aspect of a situation while ignoring others, such as only considering the height of a liquid in a glass & not its width during conservation tasks.
+- Lack of Conservation:
+  Children do not yet understand that quantity remains the same even when the shape or appearance changes (e.g., believing a taller, thinner glass holds more liquid than a shorter, wider one).
+- Lack of Reversibility:
+  Difficulty understanding that actions can be undone or reversed (e.g., not realizing that a ball of clay rolled into a snake can be rolled back into a ball).
+- Collective Monologues:
+  Conversations between children in which each talks without truly engaging with the other's perspective, reflecting egocentric thought.
+*** Extensions to the Theory
+Unofficial 5th Stage:
+- Relativistic Thinking: Recognizes that knowledge & solutions are context-dependent, not absolute.
+  Truth is understood as subjective & influenced by perspective.
+** Formal vs. Postformal Thought
+- Problem-Solving: Hypothetical "correct" solutions
+- Truth Perspective: Absolute; seeks universal principles
+- Contradictions: Avoided or resolved through logic alone
+- Emotions Role: Viewed as seperate from valid reasoning
+** Sociocultural Theory – Lev Vygotsky
+Emphazies the importance of social interactions in cognitive development
+"Learning is a social & cultural process—not just a solo activity"
+Highlights the importance of education, mentorship, & environment in learning
+
+- Learning is mediated by language, tools, & guidance from others
+- Introduced the concept of the *Zone of Proximal Development (ZPD)*:
+  What a child can do with help vs. what they can do alone.
+- Scaffolding: Temporary support given by teachers or peers to help the learner progress.
+
+** Ecological Systems Theory – Urie Bronfenbrenner
+Development is influenced by multiple environmental systems that interact with each other
+Emphasizes the complex interplay between individual & environment
+*** Five nested systems:
+- Microsystem: Immediate surroundings (family, school).
+- Mesosystem: Interactions between microsystems (e.g., parent–teacher relationship).
+- Exosystem: Indirect environments (e.g., parent’s workplace).
+- Macrosystem: Cultural values, laws, customs.
+- Chronosystem: Time-based changes (e.g., historical context, life transitions).
+** Moral Development Theory – Lawrence Kohlberg
+Focuses on how people develop moral reasoning over-time
+Useful for understanding how people justify actions & decisions
+Moral growth is often linked to cognitive development, but not everyone reaches the highest level.
+*** Three Levels of Moral Development
+- Pre-conventional (Birth-9):                        Right & wrong based on punishment/reward.
+- Conventional (Early Adolescence):                  Based on laws & social approval.
+- Post-conventional (Late Adolescence & Adulthood):  Based on personal ethics & universal principles.
+Critisms: Cultrual Bias, Gender Bias, Moral Reasoning != Moral Behavior
+** Attachment Theory - Bowlby
+- John Bowlby proposed that attachment is biologically based
+- Infants are born with attatchment behaviors that promotes closeness to caregivers
+- Secure Base: A caregiver provides a foundation of safety that allows the child to explore the world
+- Critical Period: If strong attachment isn’t formed in early years, it may impair social development
+** Four Types of Attachment - Ainsworth
+- Secure: Distressed when caregiver leaves
+- Avoidment: Little distress when caregiver leaves
+- Resistant (Ambivalent): Very distressed; not easily conforted
+- Disorganized: Confused, fearful behavior
+** Parenting Styles - Diana Baumrind
+Baumrind identifed 4 types of parenting styles
+- Authoritative: High warmth, high control
+  Child: High self-esteem, good social skills, acadmic success
+- Authoritarian: Low warmth, high control; Strict
+  Child: Obedient but lower happiness
+- Permissive: High warmth, low control; very lenient
+  Child: Impulsive & a lack of self-discipline
+- Uninvolved (Neglectful): Low warmth, low control; emotionally detatched
+  Child: Attatchment issues, poor emotional regulation
+** Individualism vs. Collectivism
+- Parenting Styles: Some cultures emphasize independence (e.g., U.S.), others emphasize interdependence (e.g., many Asian or Latin American cultures).
+- Emotional Expression: Cultures vary in how openly emotions are expressed or managed.
+- Cognitive Development: Cultural tools (language, education, storytelling) shape how children learn & reason.
+
+- Individualist cultures (U.S., Canada...): Value personal goals & self-expression.
+- Collectivist cultures (Japan, Mexico...): Emphasize group goals, harmony, & family/community roles.
+** Research Methods
+- Cross-Sectional Studies: Follow the same individuals across many years.
+  Show real developmental change but can be time-consuming & expensive.
+- Longitudinal Studies: Combine cross-sectional & longitudinal designs.
+- Sequential Studies: Track multiple age groups over time for a more complete picture.
+- Observational Studies
+- Surveys & Interviews
+- Experiments
+
+* Chapter 4 | States of Consciouness
+Consciousness is our awareness of internal & external stimuli;
+Exists on a spectrum from full awareness to deep sleep & unconscious states
+
+- Internal Stimuli: Pain, hunger, thoughts, emotions, etc
+- External Stimuli: Sights, sounds, temperature, people around us
+
+Light Affecting Sleep (SCN->Pineal Gland):
+Light/Zeitgeber->SCN reduces melatonin->(At Night) Light Decreases, Melatonin Released | Sleepy effect
+** Rhythms
+*** Biological
+Internal cycles of physical, mental, & behavioral activity
+
+- Menstrual cycle
+- Body temperature fluctuations
+- Sleep-wake cycles
+*** Circadian
+24-hour biological cycle that regulates:
+
+- Sleep & wakefulness
+- Body temperature
+- Hormone release (like melatonin & cortisol)
+- Alertness & cognitive performance
+
+Controlled by SCN hypothalamus, we NEED light to have a constant running schedule
+
+Disruptions:
+- Jet Lag: Fatigue, insomnia, digestive issues, difficulty concentrating
+- Shift Work (Night-Shift): Linked to increased risk of cardiovascular disease, depression, & cognitive deficits
+- Social Jet Lag: Staying up late on weekends
+** Chronotypes
+(Sleep-Schedule):
+- Morning larks: Naturally wake up early & perform best in the morning
+- Night owls: Stay up late & feel alert in the evening
+^ Influenced by genetics & age
+
+Key Events Across the Day:
+- 7:00 AM  – Melatonin secretion stops; body prepares to wake up
+- 10:00 AM – Peak alertness; cognitive performance at its best
+- 2:00 PM  – Best coordination; useful for physical tasks
+- 3:00 PM  – Fastest reaction time; body most responsive
+- 5:00 PM  – Greatest cardiovascular efficiency & muscle strength
+- 9:00 PM  – Melatonin secretion begins; body begins preparing for sleep
+- 4:00 AM  – Lowest body temperature; core body temp dips during deepest sleep
+** Stages of Sleep (REM)
+Sleep is NOT uniform & structured in cycles of Non-REM & REM
+REM = Rapid Eye Movement
+
+Non-REM Sleep:
+- Stage 1: Light sleep, easy to wake, muscle activity slows.
+- Stage 2: Body temperature drops, heart rate slows, sleep spindles occur (linked to memory consolidation).
+- Stage 3 & 4 (Deep Sleep): Slow-wave sleep, essential for physical restoration.
+
+REM Sleep:
+- Occurs ~90 minutes into sleep.
+- Brain activity resembles wakefulness
+- Vivid dreams occur (deep narrative type)
+- Important for emotional regulation, memory consolidation.
+
+One Sleep Cycle:
+One full cycle ~90 minutes; repeated 4–6 times per night
+** Why Do We Need Sleep?
+- Cognitive Function: Enhances memory, problem-solving, and attention
+- Evolutionary Theory: Sleeping at night kept us safe from predators
+*** Restorative Theory
+- Sleep allows the body to repair tissues, synthesize proteins, & replenish energy stores
+- Slow-wave sleep (Stage 3 of NREM sleep) is particularly important for physical restoration
+- REM sleep supports neural repair & brain plasticity
+- Sleep deprivation impairs immune function, increases inflammation,
+  & slows wound healing, underscoring the restorative role of sleep
+*** Cognitive Function Theory
+- Cognitive functions interact with sleep to keep your brain functioning optimally
+- Sleep & cognitive functions are interconnected: sleep enhances cognition, & cognitive processes influence sleep patterns
+
+Attention:
+- Role in Sleep: Attention helps regulate sleep by signaling when you’re tired (e.g., noticing heavy eyelids)
+- How It Works: When you’re sleep-deprived, attention falters, making it hard to focus (e.g., zoning out in class).
+
+Memory:
+- Role in Sleep: Sleep consolidates memories, moving information from short-term to long-term storage
+- How It Works: During sleep, the hippocampus replays the day’s events, strengthening neural pathways
+
+Problem-Solving & Decision-Making:
+- Role in Sleep: The brain processes complex problems during sleep, often leading to creative insights
+- How It Works: REM sleep (dreaming phase) enhances creative problem-solving by connecting ideas in new ways
+*** Evolutionary Theory (Predatory Risk Hypothesis)
+This hypothesis suggests that sleeping during darkness in safe locations reduced our ancestors’ exposure to predators, thereby increasing survival chances
+
+Key Mechanisms
+- Nocturnal Vulnerability: Darkness heightens predation risks, making inactivity (sleep) a strategic survival tactic.
+- Safe Habitat Selection: Humans evolved to sleep in sheltered areas (e.g., caves, constructed shelters) to minimize danger.
+- Energy Conservation: Reduced nighttime activity conserved energy while avoiding high-risk periods.
+** Dreams
+- Lucid Dreaming: When the dreamer is aware they are dreaming & may gain control
+*** Freud’s Theory of Dreams
+Dreams reveal unconscious desires & conflicts (manifest vs. latent content)
+Freud believed dreams provide a window into the unconscious mind, revealing hidden desires, fears, & unresolved conflicts
+
+- Manifest Content: The actual storyline or imagery of the dream as remembered upon waking
+- Latent Content:   The hidden psychological meaning or symbolic interpretation underlying the manifest content
+
+ Freud argued that by analyzing dreams, individuals could gain self-awareness & insight into personal struggles
+
+*** Activation-Synthesis Theory
+Developed by neuroscientist Alan Hobson, this theory proposes that dreams are the brain’s attempt to synthesize
+& make sense of random neural activity during REM sleep
+
+Dreams are the brain’s attempt to make sense of random neural activity
+Dreams are NOT necessarily meaningful or symbolic, but rather the result of the brain
+trying to create a narrative from spontaneous brain activation
+
+Dreaming may help construct a “virtual reality” in the mind, which could be useful
+for problem-solving or emotional processing during wakefulness.
+*** Neurocognitive Theory
+Dreams reflect waking concerns & cognition—more continuity with real life
+Dreams are shaped by the same neural networks that support imagination, memory, and daydreaming during waking life
+Dream content often reflects personal concerns, emotions, & social interactions, showing strong continuity with waking life
+
+Unlike older theories, neurocognitive theory emphasizes development: as children’s cognitive abilities grow, their dreams become more complex & story-like
+
+*** Other Theories
+- Carl Jung: Dreams tap into a “collective unconscious” shared by all humans, with universal symbols
+- Rosalind Cartwright: Dreams reflect significant life events and personal concerns,
+  supported by empirical research linking dream content to waking thoughts & experiences
+
+** Sleep Disorders
+- Insomnia: Difficulty falling or staying asleep; most common disorder
+- Sleep Apnea: Breathing stops during sleep; often linked to snoring & fatigue
+- Narcolepsy: Sudden "sleep attacks" during the day; can include cataplexy (loss of muscle tone)
+- Parasomnias: Night terrors, sleepwalking (more common in children)
+** Cognitive-Behavioral Therapy for Insomnia (CBT-I)
+CBT-I addresses both the behavioral and psychological factors that perpetuate insomnia
+CBT-I has demonstrated high success rates, with 70–80% of patients reporting meaningful
+improvement in sleep efficiency & reduced insomnia severity
+
+- Sleep Hygiene Education: Teaches healthy sleep habits, such as maintaining a consistent sleep schedule,
+  creating a restful environment, & avoiding stimulants before bedtime
+- Stimulus Control Therapy: Strengthens the association between bed & sleep by instructing patients to use the bed
+  only for sleep & sex, & to get out of bed if unable to sleep
+- Sleep Restriction Therapy: Limits time spent in bed to match actual sleep time, gradually increasing it as sleep efficiency improves
+- Cognitive Therapy: Identifies & challenges unhelpful beliefs & worries about sleep, replacing them with more adaptive thoughts
+- Relaxation Techniques: Includes methods such as progressive muscle relaxation & deep breathing to reduce arousal & anxiety at bedtime
+
+** Psychoactive Drugs
+Substances that affect mood, perception, & behavior by altering brain chemistry
+
+Categories:
+- Psychoactive Drugs: Stimulants(e.g., caffeine, nicotine, cocaine): Increase CNS activity
+- Depressants (e.g., alcohol, benzodiazepines): Decrease CNS activity
+- Opioids(e.g., heroin, morphine): Relieve pain, produce euphoria; highly addictive
+- Hallucinogens(e.g., LSD, psilocybin): Alter perception & can cause hallucinations
+
+- Tolerance: Needing more of a substance to achieve the same effect
+- Withdrawal: Physical & mental symptoms when substance use stops
+
+Addiction Dependence:
+- Physical: Body needs the drug to function
+- Psychological: Emotional craving and compulsive use
+
+*** Psychedelics
+Psychedelics are a class of psychoactive substances that profoundly alter perception, mood, & various cognitive processes
+
+**** LSD (Lysergic Acid Diethylamide):
+Mechanism of Action LSD acts primarily as a serotonin agonist, meaning it binds to serotonin receptors &
+mimics or enhances the effects of serotonin in the brain
+
+Effects:
+- Dizziness
+- Anxiety
+- Visual Distortions | Lots of visual hallucinations
+- Distorted sense of time & space
+- Synesthesia (e.g., “seeing” sounds or “hearing” colors)
+- Lasts 8-12 hours
+- Flashback (Good Memories)
+- HPPD (Hallucinogen Persisting Perception Disorder): Recurring, lenghty, & unpleasant memory from a bad trip
+
+- Feeling like unable to move
+- Body feels heavy
+
+Albert Hofman (Created LSD):
+- First made in 1938
+- On April 19, 1943, Hofmann intentionally ingested 250 micrograms of LSD, unsure of its potency
+**** Mescaline
+Found in Catuses, causes halluinogenic effects
+**** PCP & Ketamine
+Leads to feelings of detachment in reality, at high dose causes hallucinations
+**** DMT (Dimethyltryptamine)
+- Found in hallucinogenic plants
+- Plants with DMT brewed to make a tea called "Ayahuasca"
+- DMT is produced in the body in small amounts (Endogenous)
+- Visual Hallucinations
+
+"Ego Death": Spiritual and intense emotional experiences
+*** Treatment Options
+- Behavioral Therapies
+- Cognitive Behavioral Therapy (CBT): Identifies triggers & develops coping strategies
+- Contingency Management: Rewards drug-free behaviors (e.g., vouchers for clean urine tests)
+- Motivational Interviewing: Enhances intrinsic motivation to quit
+- Psychedelics: Being pushed towards being used for mental health as medication
+**** Psilocybin for Depression & Anxiety
+- Key Study:Johns Hopkins & Imperial College London (2020, 2021)
+- Trial Design:Randomized controlled trials (RCTs) with psilocybin vs. placebo/antidepressants•Findings:
+
+Findings: 67% of patients felt 50% better, after just 1 or 2 sessions | "Reset Effect"
+
+**** MDMA
+- Key Study: MAPS Phase 3 Trials (2021)
+- Trial Design:Double-blind, placebo-controlled study on severe PTSD patients
+
+Findings:
+- 88% of participants experienced a clinically significant reduction in PTSD symptoms
+- 67% no longer met PTSD criteria after three MDMA-assisted therapy sessions
+- Patients said MDMA therapy resulted in lasting relief
+
+
+**** Ketamine
+Key Study: FDA-Approved Esketamine(2019)
+Trial Design: Repeated low-dose ketamine infusions vs. placebo for suicidal patients
+
+Findings:
+- Rapid antidepressant effects within hours
+- 70% of patients who failed traditional SSRIs responded to ketamine
+- FDA-approved esketamine(Spravato) for severe depression

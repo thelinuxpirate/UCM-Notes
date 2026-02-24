@@ -2,21 +2,34 @@
 * Chapter 1 | Intro to PSY
 - Psy is a science & a profession
 
+PSY is a science because it uses evidence
+
 No single prespective will explain everything, you must be skeptical
 Measure "how we know what we know" & be willing to change your view
 
 - Scientific Method is very important in PSY
+  Observation, Question, Hypothisis, Experiement, Analysis, Conclusion, Replication
 
- # TODO: reread slides & put in information
+Wilhem Wundt (1879):
+Father of Modern Psy
+
+Structuralim (Edward Titchener): Mental Processes that comes from introspection
+Introspection: Interal mental focus on processes
+
+Gestalt Psy: Made in germany; idea of: whole > parts
+** Modern Psychological Perspectives
+** Critical Thinking
 * Chapter 3 | BioPSY
 Study of the brain/nervous system
 
 ** Nuerons
-Central Nervous System:
+Central Nervous System (CNS):
 - Brain & spinal cord
 
-Peripheral Nervous System:
-- Everything outside of CNS
+Peripheral Nervous System (PNS):
+- Everything outside of CNS; connects CNS to limbs & organs
+
+Cematic Nervous System: Control of your body
 
 Salt & Potasium needed to make your membrane's electrical charge function
 
@@ -137,13 +150,16 @@ Key Parts:
 People are like plastic, they can change; adapt across life
 Development occurs within cultural, historical, economic, & social contexts
 Opens jobs to education, counseling & social work
+
+# TODO: Add Gilligan
+
 ** 8 Stages of Life
 *** Prenatal Stage         (Begins at conception & ends at birth)
 Most rapid period of growth
 Divided into 3 periods:
-- Germinal (first 2 weeks): cell division & implantation.
-- Embryonic(weeks 3–8): organ & system formation.
-- Fetal(weeks 9–birth): growth & refinement of organs.
+- Germinal (first 2 weeks): cell division & implantation
+- Embryonic(weeks 3–8): organ & system formation (things like nicoten affect it)
+- Fetal(weeks 9–birth): growth & refinement of organs
 *** Infancy & Toddlerhood  (0–2 Years)
 - Pyhsical Development: Rapid brain development, sensory & motor skills
 - Cognitive: Language development begins
@@ -197,7 +213,7 @@ NOT just limited to childhood development as you are constantly growing
 Older Adults show wisdom & better emotional regulation
 
 *Late Adulthood:*
-- Processing speedand working memory decline.
+- Processing speed & working memory decline.
 - Semantic memory(facts, vocabulary) often remains strong.
 - Some experience cognitive impairment(e.g., mild cognitive decline, Alzheimer’s).
 
@@ -258,7 +274,7 @@ Unofficial 5th Stage:
 - Truth Perspective: Absolute; seeks universal principles
 - Contradictions: Avoided or resolved through logic alone
 - Emotions Role: Viewed as seperate from valid reasoning
-** Sociocultural Theory – Lev Vygotsky
+** Sociocultural Theory - Lev Vygotsky
 Emphazies the importance of social interactions in cognitive development
 "Learning is a social & cultural process—not just a solo activity"
 Highlights the importance of education, mentorship, & environment in learning
@@ -268,7 +284,7 @@ Highlights the importance of education, mentorship, & environment in learning
   What a child can do with help vs. what they can do alone.
 - Scaffolding: Temporary support given by teachers or peers to help the learner progress.
 
-** Ecological Systems Theory – Urie Bronfenbrenner
+** Ecological Systems Theory - Urie Bronfenbrenner
 Development is influenced by multiple environmental systems that interact with each other
 Emphasizes the complex interplay between individual & environment
 *** Five nested systems:
@@ -285,6 +301,7 @@ Moral growth is often linked to cognitive development, but not everyone reaches 
 - Pre-conventional (Birth-9):                        Right & wrong based on punishment/reward.
 - Conventional (Early Adolescence):                  Based on laws & social approval.
 - Post-conventional (Late Adolescence & Adulthood):  Based on personal ethics & universal principles.
+
 Critisms: Cultrual Bias, Gender Bias, Moral Reasoning != Moral Behavior
 ** Attachment Theory - Bowlby
 - John Bowlby proposed that attachment is biologically based
@@ -384,7 +401,7 @@ REM Sleep:
 One Sleep Cycle:
 One full cycle ~90 minutes; repeated 4–6 times per night
 ** Why Do We Need Sleep?
-- Cognitive Function: Enhances memory, problem-solving, and attention
+- Cognitive Function: Enhances memory, problem-solving, & attention
 - Evolutionary Theory: Sleeping at night kept us safe from predators
 *** Restorative Theory
 - Sleep allows the body to repair tissues, synthesize proteins, & replenish energy stores
@@ -437,14 +454,14 @@ Dreaming may help construct a “virtual reality” in the mind, which could be 
 for problem-solving or emotional processing during wakefulness.
 *** Neurocognitive Theory
 Dreams reflect waking concerns & cognition—more continuity with real life
-Dreams are shaped by the same neural networks that support imagination, memory, and daydreaming during waking life
+Dreams are shaped by the same neural networks that support imagination, memory, & daydreaming during waking life
 Dream content often reflects personal concerns, emotions, & social interactions, showing strong continuity with waking life
 
 Unlike older theories, neurocognitive theory emphasizes development: as children’s cognitive abilities grow, their dreams become more complex & story-like
 
 *** Other Theories
 - Carl Jung: Dreams tap into a “collective unconscious” shared by all humans, with universal symbols
-- Rosalind Cartwright: Dreams reflect significant life events and personal concerns,
+- Rosalind Cartwright: Dreams reflect significant life events & personal concerns,
   supported by empirical research linking dream content to waking thoughts & experiences
 
 ** Sleep Disorders
@@ -453,7 +470,7 @@ Unlike older theories, neurocognitive theory emphasizes development: as children
 - Narcolepsy: Sudden "sleep attacks" during the day; can include cataplexy (loss of muscle tone)
 - Parasomnias: Night terrors, sleepwalking (more common in children)
 ** Cognitive-Behavioral Therapy for Insomnia (CBT-I)
-CBT-I addresses both the behavioral and psychological factors that perpetuate insomnia
+CBT-I addresses both the behavioral & psychological factors that perpetuate insomnia
 CBT-I has demonstrated high success rates, with 70–80% of patients reporting meaningful
 improvement in sleep efficiency & reduced insomnia severity
 
@@ -479,7 +496,7 @@ Categories:
 
 Addiction Dependence:
 - Physical: Body needs the drug to function
-- Psychological: Emotional craving and compulsive use
+- Psychological: Emotional craving & compulsive use
 
 *** Psychedelics
 Psychedelics are a class of psychoactive substances that profoundly alter perception, mood, & various cognitive processes
@@ -514,7 +531,7 @@ Leads to feelings of detachment in reality, at high dose causes hallucinations
 - DMT is produced in the body in small amounts (Endogenous)
 - Visual Hallucinations
 
-"Ego Death": Spiritual and intense emotional experiences
+"Ego Death": Spiritual & intense emotional experiences
 *** Treatment Options
 - Behavioral Therapies
 - Cognitive Behavioral Therapy (CBT): Identifies triggers & develops coping strategies
@@ -535,8 +552,6 @@ Findings:
 - 88% of participants experienced a clinically significant reduction in PTSD symptoms
 - 67% no longer met PTSD criteria after three MDMA-assisted therapy sessions
 - Patients said MDMA therapy resulted in lasting relief
-
-
 **** Ketamine
 Key Study: FDA-Approved Esketamine(2019)
 Trial Design: Repeated low-dose ketamine infusions vs. placebo for suicidal patients
@@ -545,3 +560,178 @@ Findings:
 - Rapid antidepressant effects within hours
 - 70% of patients who failed traditional SSRIs responded to ketamine
 - FDA-approved esketamine(Spravato) for severe depression
+
+* Chapter 6 | The Psychology Behing Learning
+Learning: A relatively permanent change in behavior or knowledge due to experience
+
+
+Study Learning: Understanding learning is essential for areas like education, mental health treatment,
+behavioral change, & animal training
+** 3 Major Forms of Learning
+*** Classical Conditioning - Pavlov
+- Learning to associate two stimuli & anticipate events
+
+Classical conditioning is a type of learning in which an organism comes to
+associate two stimuli & anticipate events
+
+Pavlov’s Discovery:
+Pavlov noticed that dogs would salivate not only at food,
+but also at cues associated with food—like the sound of a bell
+
+Processes:
+- Unconditioned Stimulus (UCS): Stimulus that naturally & automatically triggers a response
+- Unconditioned Response (UCR): The unlearned, natural response to the UCS
+- Neutral Stimulus (NS): A stimulus that doesn't elicit a response before conditioning
+- Conditioned Stimulus (CS): Originally a NS that after the effects of UCS, triggers a CR
+- Conditioned Response (CR): A learned response to a previously neutral (now conditioned) stimulus
+
+- Acquisition: The initial learning of the stimulus-response relationship.
+- Extinction: When the CS is presented repeatedly without the UCS, the CR weakens.
+- Spontaneous Recovery: After a pause, a previously extinguished CR can return.
+- Generalization: The tendency to respond similarly to stimuli that resemble the CS (e.g., dog salivates to different bell tones).
+- Discrimination: Learning to respond only to the specific CS, not similar stimuli.
+
+Examples:
+- Phobias
+- Taste Aversions
+**** Phases of Classical Conditioning
+- Before Conditioning:
+UCS → UCR (Food → Salivation)
+NS → No response (Bell → No salivation)
+
+- During Conditioning:
+NS + UCS → UCR (Bell + Food → Salivation)
+
+- After Conditioning: CS → CR (Bell → Salivation)
+*** Operant Conditioning - B.F. Skinner
+A type of learning in which behavior is strengthened or weakened depending on its consequences
+Unlike classical conditioning (which is passive), operant conditioning is active
+the organism acts on the environment & learns from the results
+
+Studied by: B.F. Skinner, which built upon Thorndike’s Law of Effect
+**** Reinforcement & Punishment
+- Positive Reinforcement: Add something desirable to increase behavior
+- Negative Reinforcement: Remove something unpleasant to increase behavior
+
+- Positive Punishment: Add something unpleasant to decrease behavior
+- Negative Punishment: Remove something to decrease behavior
+
+Reinforcement Schedules:
+- Fixed Ratio:       Reinforcement after a set number of responses
+- Variable Ratio:    Reinforcement after an unpredictable number of responses
+- Fixed Interval:    Reinforcement after a set amount of time
+- Variable Interval: Reinforcement after varying time intervals
+*** Observational Learning - Albert Bandura
+Occurs when behavior is acquired by watching & imitating others
+
+The Bobo Doll Experiment (1961):
+- Children watched an adult interact aggressively or non-aggressively with an inflatable "Bobo doll"
+- Children who observed aggressive behavior were more likely to imitate that aggression, even without direct reinforcement
+
+Findings: This suggested that learning can occur through observation alone, not just through rewards or punishments
+Key Point: Behavior is shaped by our environment & social context
+**** 4 Key Processes
+Attention: Learner must pay attention to the model's behavior
+Retention: Learner must remember the observed behavior
+Reproduction: Learner must be able to replicate (physically & mentally) capable of reproducing it
+Motivation: Motivated to imitate the behavior
+** Shaping & Behavior Modification
+- Shaping is a process in operant conditioning where successive approximations
+  of a desired behavior are reinforced until the full behavior is achieved
+- Behavior modification refers to the use of operant conditioning principles to change
+  maladaptive or undesirable behaviors & promote desirable ones
+
+Behavior Modification:
+- Token Economies: A structured system where desired behaviors are reinforced with tokens (secondary reinforcers) that can be exchanged for rewards
+
+- Secondary reinforcers gain their power through repeated pairing with primary reinforcers
+  Secondary reinforcers have no inherent value on their own
+- Over time, individuals learn that the secondary reinforcer predicts or leads to a primary reinforcer
+
+** Cognitive Learning
+Refers to the process of acquiring new knowledge & understanding through thought,
+experience, & the senses not just through behavior & reinforcement
+
+Focuses on mental processes like attention, memory, reasoning, problem-solving, & expectations
+
+Cognitive learning emphasizes that learners are not passive responders to the environment but active processors of information.
+It helped bridge the gap between strict behaviorism & modern theories that account for mental processes
+*** Latent Learning - Edward Tolman
+Learning that occurs without obvious reinforcement and remains hidden until there's motivation to demonstrate it
+
+Rat Study:
+- Trained rats in a maze without a reward
+- Once food was introduced as a reward, the rats with prior experience
+  completed the maze faster
+- When a reward was introduced the rats had a mental map of the maze
+This contradicted behaviorist beliefs that all learning requires reinforcement
+
+*** Insight Learning - Wolfgang Kohler
+A sudden realization or "Aha!" moment where a solution to a problem emerges without trial-&-error
+
+Famous Study:
+- Kohler observed chimpanzees solving problems, like stacking boxes or using sticks to retrieve bananas
+- Rather than random trial-and-error, the chimps appeared to pause & suddenly “see” the solution
+
+Learning can involve restructuring information in the mind rather than simple stimulus-response conditioning
+
+** Biological Constraints
+Organisms are biologically predisposed to learn certain behaviors more easily than others due to evolutionary adaptations
+
+- Taste aversion(Garcia effect): Rats learn to avoid food associated with illness after just one trial
+- Instinctive drift: Learned behaviors can be overridden by instinctual behaviors
+*** Preparedness & Phobias
+- Humans & animals are biologically “prepared” to learn associations that are relevant to survival
+- This is believed to be due to evolutionary mechanisms that helped our ancestors avoid danger
+*** Brain Structures
+- Hippocampus: Crucial for forming new memories | Declaring specific memories
+- Amygdala: Involved in emotional learning,especially fear conditioning.
+- Cerebellum: Important for procedural learning, like motor skills & classical conditioning of reflexes
+- Prefrontal Cortex: Engaged in executive functions, decision-making, & evaluating consequences in operant learning
+** Cultural Influences
+Observational learning is more prominent in some Indigenous & collectivist cultures:
+
+- Children in Mayan or Inuit communities often learn by watching adults & participating in real tasks from a young age
+- In contrast, Western education systems tend to emphasize formal instruction & individual performance
+- Some cultures value group success; meanwhile others reward individual achievement & competition
+
+Language & Cognitive Framing:
+The language spoken within a culture can shape how we categorize & remember information
+
+Cultural Expectations:
+- Western cultures: Analytical thinking; Focus on individual elements & objects
+- Eastern cultures: Holistic thinking;   Focus on relationships & context
+** Applications of Learning
+*** Education & the Classroom
+Classroom Management:
+- Positive reinforcement
+- Punishment
+
+Curriculum Design:
+- Lessons are sequenced using shaping
+- Active learning stratigies
+*** Behavior Therapy & Mental Health
+Behavioral Therapies:
+- Systematic desensitization (classical conditioning)
+- Token economies (operant conditioning)
+
+Addiction Treatment:
+- Aversion Therapy: Associates unwanted behaviors with unpleasant outcomes
+- Contingency Management: Uses incentives to encourage sobriety
+
+*** Parenting & Child Development
+Reinforcement & Punishment
+
+Modeling Behavior: Children imitate parents, siblings, & media role models (observational learning)
+*** Animal Training
+Animal Trainers rely on operant conditioning
+- Clicker Training
+- Shapng helps animals learn complex behaviors step-by-step
+
+*** Workplace & Organizational
+- Employee Training: New behaviors introduced through modeling & reinforcement
+- Incentive Programs: Variable ratio schedules used to maintain high productivity
+- Behavioral Interventions: Programs may target safety using token systems or feedback loops
+*** Public Health & Safety
+- Behavioral Nudges: Campaigns use classical conditioning
+- Smoking Cessation Programs: Often use behavioral contracts, reinforcement systems, & social modeling to promote change

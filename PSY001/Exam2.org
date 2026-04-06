@@ -1,0 +1,1342 @@
+* Chapter 7 | Thinking & Intelligence
+** Cognition
+Definition: Cognition refers to all mental activities associated with acquiring, storing, retrieving, & using knowledge
+
+It allows us to make decisions, learn from experience, & adapt to new situations
+Cognitive psychology is central to understanding intelligence, learning, mental disorders, & human development
+
+Includes processes:
+- Perception
+- Attention
+- Memory
+- Language
+- Problem-solving
+- Decision-making
+*** Key Aspects
+- Concept Formation: Grouping information into categories or schemas to understand the world
+- Prototypes: The most typical example of a concept
+- Cognitive Processes: These help us interpret, analyze, & respond to environmental stimuli
+
+** Concepts & Prototypes
+Concepts are mental groupings of similar objects, ideas, or experiences
+They help us organize information & simplify our thinking
+
+ Concepts & prototypes allow us to process information efficiently, but they can also lead to
+ biases or errors when something doesn’t match our prototype (e.g., not recognizing that a bat is a mammal)
+*** Prototype Theory
+A prototypeis the most typical or average example of a concept
+Prototypes are influenced by culture, experience, & exposure
+
+** Problem Solving
+Process of finding solutionsto difficult or complex issues
+Psyc Definition: Involves identifying a goal & taking steps to achieve it
+
+Awareness of cognitive biases & flexibility in thinking improves problem-solving ability
+*** Strategies
+- Trial & Error: Trying different solutions until something works
+  Pros: May work when options are limited
+  Cons: Time-consuming & inefficient for complex problems
+
+- Algorithm: A step-by-step, logical rule or procedurethat guarantees a solution
+  Pros: Accurate, reliable
+  Cons: Can be slow, not always practical in real life
+
+- Heuristic: A mental shortcut or “rule of thumb” that helps simplify decision-making
+  Pros: Fast, efficient
+  Cons: Increases risk of errors & biases
+
+- Insight: A sudden realization of a problem’s solution, often called an “Aha!” moment
+  Often occurs unconsciouslyor after stepping away from the problem
+
+*** Obstacles
+- Mental Set:           Tendency to approach problemsin a familiar way, even when a new way might be better
+- Functional Fixedness: Inability to see an object as useful for something other than its traditional use
+
+** Decision Making & Biases
+Definition: The process of choosing between alternatives based on preferences, information, & possible outcomes
+
+Involves evaluating evidence, predicting consequences, & selecting a course of action
+Often uses heuristics, which can be efficient; but may also introduce biases
+
+Understanding viases helps us become more self-aware, rational thinkers
+*** Decision-Making Heuristics
+- Availability Heuristic: Making decisions based on how easily information comes to mind
+  Cons: Can distort risk perception
+
+- Representativeness Heuristic: Judging a situation based on how similar it is to a prototype
+  Cons: Can lead to sterotyping
+*** Cognitive Biases in Decision Making
+- Conformation Bias:   Tendency to seek out or interpret informationin a way that confirms our existing beliefs
+- Anchoring Bias:      Relying too heavily on the first piece of information encountered (the “anchor”)
+- Hindsight Bias:      Belief that we "knew it all along" after an outcome is known
+- Overconfidence Bias: Overestimating our own knowledge or ability
+
+** Creativity & Divergent Thinking
+Creativity Definition: The ability to generate, create, or discover new ideas, solutions, & possibilities
+
+Creativity is not easily capturedby standard IQ tests
+Psychologists also assess creativity through creative achievement, such as artistic work, inventions, or problem-solving in real life
+
+Divergent Thinking Definition: The process of exploring many possible solutions
+- Encourages open-edned thinking
+- Used in brainstorming or creative writing
+
+Convergent Thinking:
+- Narrowing down options to find the single best solution
+- Used in most academic testing & logical problem-solving
+*** Traits of Creative Thinkers
+- Originality: Producing ideas that are novel or unique
+- Fluency:     Ability to produce many ideas
+- Flexibility: Thinking in vaired ways or form different perspectives
+- Elaboration: Building on an idea by adding detail or complexity
+*** Fostering Creativity
+- Environmental support:               Encouragement,open-minded peers, & freedom to explore
+- Risk-taking & tolerance for failure: Accepting trial-&-error processes
+- Curiosity & intrinsic motivation:    Enjoying the process, not just the outcome
+- Cross-disciplinary learning:         Drawing from multiple knowledge areas
+*** Characteristics of Creative Thinkers
+- Open to new experiecnes
+- Willing to take risks
+- Comfortable with ambiguity (not everything being exact)
+- Persistent in the face of obstacles
+*** Barriers to Creativity
+- Functional fixedness: Inability to see an object being used in a way other than its typical use
+- Mental set:           Tendency to approach problems using strategies that have worked in the past—even
+                        when they’re no longer effective
+- Confirmation bias:    Only seeking evidence that supports our current beliefs
+- Fear of failure or social judgment
+** Intelligence & IQ Testing
+General Definition: The ability to acquire & apply knowledge & skills
+Encompasses reasoning, problem-solving, learning, memory, & adapting to new situations
+
+Psychologists have debated whether intelligence is a single ability or multiple types of abilities
+*** Theories of Intelligence
+- Charles Spearman “g factor”:          People who perform well in one area (e.g., math) tend to perform well in others (e.g., language)
+
+- Raymond Cattell - Divided intelligence into:
+  "Fluid Intelligence":        Ability to solve new problems without prior knowledge (peaks in young adulthood)
+  "Crystallized Intelligence": Accumulated knowledge & verbal skills (grows with age)
+
+- Robert Sternberg - Triarchic Theory (3 types of intelligence):
+  Analytical (problem-solving, school-based tasks)
+  Creative   (innovative thinking)
+  Practical  (“street smarts”)
+**** Theory of Multiple Intelligences - Howard Gardner
+- Linguistic:           Sensitivity to spoken & written language (e.g., writers, lawyers)
+- Logical-Mathematical: Ability to analyze problems logically & perform mathematical operations (e.g., scientists, engineers)
+- Musical:              Skill in performance, composition, & appreciation of musical patterns
+- Bodily-Kinesthetic:   Ability to use one’s body to express oneself or solve problems (e.g., dancers, athletes)
+- Spatial:              Capacity to think in three dimensions (e.g., architects, artists)
+- Interpersonal:        Understanding & interacting effectively with others (e.g., teachers, therapists)
+- Intrapersonal:        Understanding one’s own emotions & motivations
+- Naturalistic:         Recognizing & categorizing aspects of the natural world (e.g., biologists, farmers)
+
+Gardner argued that traditional education overemphasizes linguistic & logical-mathematical intelligence while undervaluing others
+
+*** Intelligence Testing & Assessment
+Intelligence testing aims to measure a person's cognitive abilities, such as reasoning, problem-solving, & understanding
+These tests attempt to provide a quantitative measure of intelligence, often summarized as an IQ (Intelligence Quotient) score
+Good IQ tests are both reliable & valid, but still face criticism
+
+Intelligence is dynamic, influenced by environment, & not fully determined by genetics
+Important to consider multiple measures & context when evaluating intellectual ability
+
+Average IQ:
+- Average IQ = 100
+- Most people = 85-115
+- 70 = Mental Disablity
+- 130 = Super Genius
+
+Alfred Binet (early 1900s, France):
+- Developed one of the first intelligence tests to identify children needing academic support
+- Introduced concept of mental age (the level of performance typically associated with a certain chronological age)
+
+Lewis Terman (Stanford University):
+- Adapted Binet’s test for American use: the Stanford-Binet Intelligence Scale
+- Coined the term IQ = (Mental Age/Chronological Age) * 100
+
+Key Takeaway:
+IQ tests can provide useful information about cognitive abilities, but they are not a complete measure of intelligence
+They should be interpreted cautiously & used alongside other forms of assessment
+**** Common Tests
+- Stanford-Binet Intelligence Scales
+- Wechsler Adult Intelligence Scale (WAIS)
+- Wechsler Intelligence Scale for Children (WISC)
+**** Critisisms
+- Uses: Educational placement, identifying intellectual disabilities or giftedness, cognitive research
+- Limitations:
+  May not capture all forms of intelligence
+  Can be culturally biased or influenced by socioeconomic background
+  Overemphasis on test scores can ignore creativity, emotional intelligence, & real-world problem solving
+
+** Emotional Intelligence & Social Intelligence
+Emotional Intelligence (EI) Definition: The capacity to recognize, understand, manage, & use emotions effectively in ourselves & others
+Popularized by Daniel Goleman, who argued it can be as important as traditional IQ inpredicting success
+
+Intelligence is multi-dimensional: Cognitive abilities, emotional skills, & social awareness all contribute to success (against Golman)
+
+Importance:
+Predicts academic & workplace performance, social success, & mental health
+
+Strong EI is associated with:
+- Better relationship satisfaction
+- Greater resilience & stress management
+- Improved leadership & teamwork
+
+Social Intelligence (SI) Definition: The ability to navigate complex social environments & build positive relationships
+
+Involves:
+- Reading social cuesaccurately (e.g., body language, tone of voice)
+- Adjusting behaviorto fit different social situations
+- Understanding group dynamics & unspoken social rules
+*** EI Vs. SI
+- Social intelligence emphasizes interpersonal navigation
+- Emotional intelligence includes self-regulationas well
+*** Key Components EI - Goleman’s Model
+- Self-Awareness: Recognizing your own emotions & their effects
+                  Understanding how mood influecnes behavior & though
+
+- Self-Regulation: Managing impluses, mood, & behaviors
+                   Thinking before acting; maintaining emotional control
+
+- Motivation: Using emotions to pursue goals with energy & persistence
+              Delaying gratification & staying optimistic
+
+- Empathy: Understanding others’ feelings & perspectives
+           Essential for healthy relationships & social understanding
+
+- Social Skills: Managing relationships, conflict resolution, effective communication
+                 Building rapport & leadership skills
+*** Applications in Real Life
+- Education
+- Workplace
+- Mental Health
+** Points
+- Intelligence is multi-faceted
+- Intelligence is influenced by biology, experience, & culture
+- Emotional intelligence highlights the role of understanding & managing emotions
+- Measuring intelligence: IQ tests aim to assess mental ability but can be influenced by
+  environment, education, & cultural context
+* Chapter 11 | Personality Psychology
+Personality Definition: Refers to the characteristic thoughts, emotional responses, & behaviors
+                        that are relatively stable over time & across situations
+
+It captures what makes individuals unique & how they tend to consistently think, feel, & act
+
+Why it matters:
+- Helps us understand & predict behavior
+- Influences interpersonal relationships, academic & career success, & mental health
+- Plays a role in how we perceive the world, make decisions, & interact with others
+
+Features:
+- Consistency:            Personality traits are generally consistent over time
+- Individual Differences: No two people have the EXACT SAME personality; even identical twins are different
+- Integration:            Personality brings together a person's motivations, emotions, values,
+                          & patterns of behavior into a coherent whole
+** Historical Theories of Personality
+*** Psychodynamic Theory - Sigmund Freud
+Core Idea: Personality is influenced by unconscious drives, inner conflicts, & childhood experiences
+
+Structure of the Mind:
+- Id:       Primitive desires (pleasure principle)
+- Ego:      Rational self (reality principle)
+- Superego: Internalized morals (conscience)
+
+- Defense Mechanisms:  Unconscious tactics to reduce anxiety (e.g., repression, denial,projection)
+- Psychosexual Stages: Personality develops through stages (oral, anal, phallic, latency, genital); each focused on different erogenous zones
+**** Psychoanalytic Theory of Personality - Frued
+Core Idea:
+- Freud believed that unconscious forces—thoughts, memories, & desires—shapepersonality & behavior.
+- Developed in the early 1900s, this was one of the first formal theories of personality in psychology.
+***** The Three Personality Structures & Defense Mechanisms:
+1. 
+- Id(unconscious): Present from birth. 
+- Operates on the pleasure principle—seeks immediate gratification.
+- Primitive, instinctual drives (e.g., hunger, sex, aggression).
+2. 
+Ego (conscious & unconscious): Develops during childhood
+- Operates on the reality principle—balances id’s desires with real-world constraints
+- Acts as the rational mediator between the id & superego.
+3.
+Superego (mostly conscious): Develops last, around age 5
+- Internalized societal rules & moral standards (conscience)
+- Strives for perfection & judges our behavior.
+
+Defense Mechanisms (Used by the ego to reduce anxiety):
+- Repression:   Pushing unacceptable thoughts into the unconscious
+- Denial:       Refusing to acknowledge reality
+- Projection:   Attributing one’s own unacceptable desires to others
+- Displacement: Redirecting emotions to a safer outlet
+- Sublimation:  Channeling impulses into socially acceptable behaviors
+***** Contributions
+- Introduced the idea of the unconscious mind
+- Emphasized the role of early childhood experiences
+- Influenced the development of talk therapy & later psychodynamic approaches
+***** Critisisms
+- Lacks scientific rigor many concepts are not testable or falsifiable
+- Overemphasis on sexual & aggressive drives
+- Based primarily on case studies of a narrow population (wealthy European patients)
+**** Freud’s Psychosexual Stages of Development
+Freud proposed that personality develops through a series of stages centered on different erogenous zones
+Each stage involves a conflict that must be resolved; unresolved conflictsmay lead to fixation; a lasting focus on that stage
+Development is largely complete by early childhood
+
+Stages:
+- Oral (0-1): Mouth; Weaning; Smoking, dependecy issues
+- Anal (1-3): Anus; Toilet Training; Obsessiveness or messiness
+- Phallic (3-6): Genitals; Oedipus/Electra Complex; Sexual dysfunction, vanity
+- Latency (6-12): None (dormant); Social Development; Poor peer relationships
+- Genital (12+): Genitals; Mature sexuality; Unstable relationships
+***** The Mind’s Structure: The Iceberg Analogy
+- Conscious: Thoughts & feelings we’recurrently aware of
+- Preconscious: Easily accessible memories or knowledge (just beneath the surface)
+- Unconscious: Deep desires, fears, & memories influencing us without our awareness
+*** Neo-Freudians
+Built on Freud’s ideas but placed less emphasis on sex & more on social & cultural influences
+
+- Carl Jung: Emphasized the collective unconscious & archetypes; introduced ideas like introversion & extraversion
+- Alfred Adler: Focused on inferiority complex & drive for superiority
+- Karen Horney: Criticized Freud’s views on women; emphasized anxiety, security, & social relationships
+**** Neo-Freudian Theories
+Definition: Neo-Freudians were psychologists who agreed with Freud’s ideas about the unconscious mind
+            & childhood importance, but they diverged from his emphasis on sexual drives & focused more on
+            social, cultural, & interpersonal influences
+
+***** Carl Jung
+- Collective Unconscious: A shared, inherited reservoir of memory traces from our species’ history
+  - Contains archetypes: universal themes & symbols (e.g., the Hero, the Mother, theShadow
+- Viewed personality development as a lifelong journey toward self-realization, or individuation
+- Introduced terms like introversion & extraversion
+***** Alfred Adler
+- Emphasized the importance of social connections, rather than sexual motivations
+- Introduced the concept of the inferiority complex:
+  - Feelings of inferiority can drive individuals to strive for superiority & success
+- Stressed the role of birth orderin shaping personality:
+  - Firstborns, middle children, & youngest siblings may develop different traits due to family dynamics.
+***** Erik Erikson
+- Developed the psychosocial stages of development:
+  - Unlike Freud’s psychosexual model, Erikson proposed 8 stagesacross the lifespan
+  - Each stage involves a central conflict (e.g., trust vs. mistrust, identity vs. role confusion)
+- Emphasized lifelong development & social relationships
+***** Karen Horney
+- One of the first female psychoanalysts to challenge Freud’s ideas
+- Rejected Freud’s concept of “penis envy”, proposing instead that men may suffer from “womb envy”
+- Emphasized the sociocultural context of personality, especially the impact of anxiety & interpersonal relationships
+- Highlighted the importance of culture & gender roles in shaping personality
+*** Humanistic Theories
+Emphasize free will, self-awareness, & the drive toward personal growth
+
+Carl Rogers:
+- Concept of self-concept: How you see yourself vs. your ideal self.
+- Believed in unconditional positive regardas necessary for healthy development
+
+Abraham Maslow:
+- Proposed the Hierarchy of Needsculminating in self-actualization.
+- Saw personality as shaped by striving toward personal fulfillment
+**** Humanistic Approaches
+Developed as a reaction to the pessimism of Freud’s psychoanalytic theory & the mechanical view of behaviorism
+
+Emphasizes:
+- Personal growth
+- Self-awareness
+- Free will
+- The inherent goodness of people
+
+Seeks to understand how people can achieve fulfillment & self-actualization
+***** Person-Centered Theory - Carl Rogers (1902–1987)
+Self-Concept:
+- How we view ourselves (e.g., “I am capable,” “I am kind”)
+- Personality is shaped by the alignment (or misalignment) between our self-concept & experience
+- Healthy personality = a congruent self-concept
+
+Unconditional Positive Regard:
+- Accepting & valuing a person without judgment
+- Children raised with unconditional positive regard develop a more accurate & confident self-concept
+- Contrasts with conditional positive regard, where acceptance depends on meeting others' expectations
+
+Therapeutic Application:
+- Rogers emphasized a non-directive approach where the therapist offers empathy, genuineness, & acceptance
+- Helped develop client-centered therapy, a foundational approach in counseling psychology
+***** Hierarchy of Needs - Abraham Maslow (1908–1970)
+Founder of the Pyramid Model
+- Physiological:      Food, water, sleep
+- Safety:             Security, health, stability
+- Love/Belonging:     Relationships, social connection
+- Esteem:             Self-worth, confidence, recognition
+- Self-Actualization: Reaching one’s full potential, creativity, purpose
+
+People are motivated to satisfy needs in order, starting from the most basic
+
+People who reach Self-Actualization:
+- Motivated by growth rather than fear
+*** Hippocrates (ca. 460–370 BCE)
+Believed personality was based on the balance of four bodily fluids or “humors”:
+- Blood -> Sanguine (cheerful, optimistic)
+- Yellow bile -> Choleric (irritable, ambitious)
+- Black bile -> Melancholic (sad, thoughtful)
+- Phlegm -> Phlegmatic (calm, reliable)
+
+Illness & personality imbalances were thought to arise from excesses or deficiencies in these fluids
+*** Galen (129–c. 200 CE)
+Expanded on Hippocrates’ theory by proposing that the four humors produced specific temperaments
+Suggested that temperament influences both health & personality traits
+Though outdated, these ideas influenced personality theories for centuries
+*** Phrenology - Franz Gall (1758–1828)
+Gall believed the shape & bumps of the skullreflected a person’s mental faculties & personality traits
+He mapped the skull into specific regionsthought to correspond to traits like combativeness, kindness, or wit
+Phrenology is now discredited, but it was one of the earliest attempts to link biology to personality
+*** Historical Importance
+These theories were foundational in shaping how psychologists think about:
+- The originof personality
+- The role of early experiences
+- The importance of the self & conscious choice
+
+While many ideas are now outdated or unsupported, they influenced modern theories & clinical practices
+*** Legacy of Early Theories
+Though not scientifically valid, these early ideas:
+- Represent the origins of biological & typological thinkingabout personality
+- Influenced the development of more rigorous psychological models
+- Laid the groundwork for trait theory & biological perspectives
+** Learning & Behaviorist Approaches to Personality
+*** Personality as Learned Behavior - B.F. Skinner
+Personality is shaped by the environment, not by internal traits orunconscious forces.
+Skinner rejected introspection & focused on observable behavior
+
+Operant Conditioning:
+- Behavior is strengthened through reinforcement(positive/negative)
+- Behavior is weakened through punishment
+
+No emphasis on internal traits: Behavior patterns that appear stable are really a result of consistent reinforcement histories
+*** Social Cognitive Theory - Albert Bandura
+Reciprocal Determinism:
+- Personality arises from the interaction of behavior, environment, & cognitive factors
+- You influence your environment, & your environment influences you
+Example: Choosing to play a sport (behavior) affects your environment (team), which shapes your self-concept & future decisions
+
+Self-Efficacy:
+- One’s belief in their ability to succeed in specific situations
+- High self-efficacy -> more motivation & resilience
+- Low self-efficacy -> more likely to give up or avoid challenges
+
+Observational Learning:
+- Learning by watching others
+- Influences personality development, especially in childhood
+Example: Children may adopt behaviors they see in parents, peers, or media figures
+*** Locus of Control - Julian Rotter
+Definition: A person’s belief about what causes outcomes in their life
+
+Internal Locus of Control:
+- Belief that outcomes are the result of personal effort
+- Associated with higher achievement, better health, & greater responsibility
+
+External Locus of Control:
+- Belief that outcomes are due to luck, fate, or external circumstances
+- Can lead to passivity or a sense of helplessness
+
+Personality is influenced by where people place control over life’s events
+**** Main Points
+- Behaviorist theories emphasize learning & environment, not innate traits or unconscious processes
+- Social cognitive theories integrate thought processes (like beliefs & expectations) with behavior & social context
+- These theories have strong applications in education, therapy, motivation, & understanding behavior in real-life settings
+
+** Trait Theories of Personality
+Trait theorists focus on identifying & describing stable, measurable personality traits that differ between individuals
+Form the foundation for many modern personality assessments(e.g., Big Five model, MBTI is loosely inspired)
+Help predict behavior patterns, job performance, & interpersonal compatibility
+
+Trait theory is descriptive but doesn’t fully explain why traits develop; making it complementary to other theories
+*** Trait Hierarchies - Gordon Allport (1897–1967)
+Proposed that individuals have unique combinationsof traits
+
+3 Levels of Traits:
+- Cardinal Traits: Rare, dominate an individual’s entire personality (e.g., Mother Teresa’s altruism)
+- Central Traits: General characteristics found in varying degrees in everyone (e.g., honesty, friendliness)
+- Secondary Traits: More situation-specific & less consistent (e.g., preferences or attitudes)
+
+Believed personality was shaped by both genetics & environment, but emphasized theindividual’s uniqueness
+*** 16 Personality Factors - Raymond Cattell (1905–1998)
+- Used factor analysisto reduce Allport’s extensive list of traits
+- Identified 16 source traits, each lying on a continuum (e.g., Reserved vs. Outgoing)
+- Developed the 16PF Questionnaire, which is still used in psychological assessment,including career counseling & clinical settings
+- Viewed traits as underlying structuresthat influence behavior, not just surface-level observations
+*** 3-Factor Model - Hans & Sybil Eysenck
+Believed personality could be boiled down to three dimensions:
+
+- Introversion vs. Extraversion
+
+- Neuroticism vs. Stability
+  - Neurotic: Anxious, moody, prone to negative emotions
+  - Stable: Calm, even-tempered, emotionally steady
+
+- Psychoticism
+  - Linked to aggressiveness, creativity, impulsivity, & a detachment from reality
+
+This 3-Factor Model Emphasized the biological basis of traits;
+- Claimed traits had a genetic & physiological origin, such as arousal levels in the brain
+*** The 5-Factor Model
+AKA Big Five, the Five-Factor Model is the most widely accepted & researched model of personality traits in modern psychology
+- Developed through decades of factor analysison trait descriptors
+- The model is empirically supportedacross cultures & age groups
+
+The Big Five provides a balanced, evidence-based frameworkf or understanding personality
+It is non-pathological (not based on disorders) & universally applicableacross cultures & languages
+**** OCEAN Traits
+Each trait is measured on a spectrum; individuals fall somewhere between the two extremes of each dimension.
+
+- Openness to Experience:
+  - High: Imaginative, curious, creative, open to new experiences & unconventional ideas
+  - Low: Practical, routine-oriented, prefers familiarity over novelty
+
+- Conscientiousness:
+  - High: Organized, dependable, disciplined, goal-directed
+  - Low: Careless, impulsive, disorganized, easily distracted
+
+- Extraversion:
+  - High: Outgoing, energetic, talkative, enjoys social interactions
+  - Low (Introverted): Reserved, quiet, prefers solitary activities
+
+-  Agreeableness:
+  - High: Compassionate, cooperative, trusting, helpful
+  - Low Competitive, suspicious, critical, sometimes antagonistic
+
+-  Neuroticism:
+  - High: Emotionally unstable, prone to anxiety, mood swings, & negative emotions
+  - Low (Emotionally Stable): Calm, resilient, less affected by stress
+
+Longitudinal studiesshow these traits are relatively stable, especially after age 30
+Openness & extraversion, may decline modestly over time
+Neuroticism often decreasess lightly as people mature & gain life experience
+** Biological & Genetic Perspectives on Personality
+*** Twin Studies & Heritability of Personality
+Twin studiesare a key method for examining the role of genetics in personality
+- Identical (monozygotic): Twins share 100% of their genes
+- Fraternal (dizygotic):   Twins share ~50% of their genes, like any other siblings
+
+By comparing personality similarities between these two types of twins, researchers estimate heritability
+- Heritability is the proportion of trait variation attributed to genetic differences
+- For many personality traits, heritability estimates range from 40% to 60%
+
+Even when raised apart, identical twins tend to be more alikein personality than fraternal twins raised together
+*** Temperament as a Biological Foundation
+Temperament: Innate, biologically based tendencies to feel or act in certain ways
+Common dimensions include:
+- Activity level(how energetic a child is)
+- Emotional reactivity (how easily upset or soothed)
+- Sociability(willingness to engage with others)
+
+Studies suggest that temperament remains relatively stable across the lifespan but can be shaped by environment
+*** Brain Structure & Neurotransmitters
+- Brain structure & function: For example, introverts may have a more sensitive reticular activating system (involved in arousal)
+- Amygdala: Tied to emotional reactivity - linked to traits like neuroticism
+- Prefrontal cortex: Involved in impulse control & planning—related to conscientiousness
+
+Neurotransmitter systems also play a role:
+- Dopamine:  Linked to reward sensitivity (high in extraverts)
+- Serotonin: Influences mood regulation (low levels associated with high neuroticism).
+*** Key Takeaways
+- Nature matters:                  Biological factors clearly influence personality but they are not destiny
+- Genes interact with environment: Traits are shaped by experiences, relationships, & culture across the lifespan
+** Cultural Influences on Personality
+*** Individualistic vs. Collectivistic Cultures
+Individualistic Cultures: U.S, Canda, Europe
+- Emphasizes independence
+- People see themselves as unique & autonomous
+- Personality Traits: Assertiveness, Self-Reliance, Personal Goals
+
+Collectivistic Cultures: China, Japan, Korea, many Latin American & African countries
+- Emphasize group harmony, family obligations, & interdependence
+- People in these cultures tend to define themselves through their social roles & relationships
+- Traits such as cooperativeness, respect, & group loyalty are highly valued
+
+Cultural values can influence:
+- How traits are perceived
+- How traits are measured
+- The social desirability of traits
+*** Acculturation & Bicultural Identity
+People who move between or live between different cultures (e.g., immigrants, international students) may develop a bicultural personality
+- Acculturation: The process of adjusting to a new culture, which can affect personality expression over time
+
+Research shows that personality is dynamic, not fixed; it can evolve as individuals adapt to different cultural expectations
+*** Personality Assessment
+Self-Report Inventories Definition: Standardized questionnaires where individuals report on their own behaviors, thoughts, & feelings
+Projective Tests Definiton: Asses personality by presenting ambigous simili & interpeting responses on unconscious processes
+
+MMPI (Minnesota Multiphasic Personality Inventory):
+- One of the most widely used psychological assessments
+- Designed to detect psychological disorders & personality structure
+- Includes validity scales to detect dishonesty or inconsistent responses
+
+NEO-PI-R (NEO Personality Inventory-Revised):
+- Measures the Big Five personality traits
+- Used in both clinical & research settings to understand personality in healthy individuals
+
+Rorschach Inkblot Test:
+- Individuals describe what they see in a series of inkblots.
+- Assumes responses reflect unconscious thoughts, feelings, & conflicts
+
+Thematic Apperception Test (TAT):
+- Individuals create stories about stories or images
+- Aims to uncover underlying motives, emotions, & themes in personality
+
+Limitations:
+- Self-report bias: Individuals may present themselves in an overly positive light
+
+* Chapter 12 | Social Psychology
+Social Psychology Definition: The scientific study of how individuals think, feel, & behave in social situations
+
+Goals:
+- Understand how others influence our behavior
+- Explore how we perceive & judge others
+- Examine how social contexts shape thoughts & emotions
+
+Social psychology largely favors situationism
+** Focus Areas
+- Thoughts  (e.g., stereotypes, attributions)
+- Feelings  (e.g., empathy, prejudice, attraction)
+- Behaviors (e.g., conformity, helping, aggression)
+
+Emphasis on the power of the situationand social context
+** Why Study?
+Ultimately, studying social psychology helps us navigate social life more wisely
+
+Has practical applications in a range of careers:
+
+- Healthcare:      Helps promote behavior change like quitting smoking or improving diet
+- Education:       Key for understanding group dynamics & classroom behavior
+- Business:        Drives consumer behavior & marketing strategies
+- Law Enforcement: Important for understanding conformity, obedience, & eyewitness testimony
+
+It gives us tools to become more:
+- Empathetic
+- Informed
+- Socially responsible individuals
+** Situationism vs. Dispositionism
+- Situationism:   Behavior is influenced more by the environmentand context
+  Situationismis the idea that our behavior is primarily shaped by external factors—the environment,
+  social norms, the presence of others
+
+- Dispositionism: Behavior is due to internal traits, personality, or character
+  Dispositionism attributes behavior to internal traits—like personality, attitudes, or values
+
+Social psychology emphasizes: The power of the situation
+** Fundamental Attribution Error (FAE)
+FAE Definiton: Tendency to overemphasize dispositional factors & underestimate situational factors when explaining others’ behavior
+- Assumes behavior reflects the person, not the context
+- Is one of the most well-established findings in social psychology
+- Refers to our tendency to assume that other people’s behavior reflects who they are
+  their personality or character; rather than considering the situation they might be in
+
+Cultures:
+- Individualistic Cultures (U.S): Error more common
+- Collectivistic Cultures:        People are more likely to factor in social roles & situations
+
+Attribution:
+- How we explain others’ behavior (e.g., fundamental attribution error, actor-observer bias)
+- Influenced by cultureand context
+** Actor-Observer Bias & Self-Serving Bias
+How we explain our own behavior versus others'
+
+- Actor-Observer Bias: We explain our own behavior using situational factors,
+  but others’ behavior using dispositional traits
+
+The actor-observer bias occurs when we’re the actor, & we blame the situation for our behavior
+but when we’re the observer, we blame the person.
+
+- Self-Serving Bias: We attribute our successesto internal traits, & our failures to external factors
+
+The self-serving bias helps us protect our self-esteem
+
+- Both serve to protect self-esteem & reduce cognitive dissonance
+
+** Cultural Influences on Attribution
+Individualistic cultures (e.g., U.S., Canada, Western Europe):
+- Emphasize personal responsibility, autonomy
+- More likely to use dispositional attributions
+
+Collectivistic cultures (e.g., Japan, China, Latin America):
+- Emphasize group harmony, context, interdependence
+- More likely to use situational attributions
+
+These cultural differences affect how we interpret social interactions, assign blame, & offer praise
+Being aware of them helps us develop more cultural sensitivity & empathy, especially in multicultural environments
+** What Are Attitudes
+Attitude Definition: Evaluation of a person, idea, or object
+
+Three Components (ABC Model):
+- Affective:  How we feel
+- Behavioral: How we act
+- Cognitive:  What we believe
+- Formed through experience & socialization
+Attitudes guide behavior but not always perfectly
+Changing attitudes & predicting behavior from them isn’t always straightforward
+
+
+Someone might believe exercise is good for them (cognitive),
+& even feel good after doing it (affective),
+but still avoid it (behavioral).
+*** Changing Attitudes - Persuasion
+Persuasion & the Yale Attitude Change Approach:
+- Persuasion: Process of changing beliefs or attitudes in response to communication
+
+Yale Model (1950s): 3 Key factors influence persuasion
+- Source:   Credibility, attractiveness
+- Message:  Quality, clarity, emotional appeal
+- Audience: Attention, intelligence, age, mood
+Attitude change depends on interaction of all three
+Emphasizes that attitude change is not just about what is said: It’s also about who says it & who hears it
+
+- The Source of the message: More persuasive if the communicator is credible, trustworthy, or physically attractive
+
+- The Message itself:        Clear, logical messages tend to work unless emotion is more compelling for the audience
+                             Messages that present both sidesof an argument (when appropriate) are often more effective
+
+- The Audience:              Some people are easier to persuade than others
+                             Younger people, people in a good mood, or those with moderate intelligence tend to be more persuadable
+**** Routes of Persuasion - Elaboration Likelihood Model
+Elaboration Likelihood Model (ELM): Explains how people are persuaded
+
+Two Routes to Persuasion: Central vs. Peripheral
+
+Attitude Change:
+- Central Route:    Logic, facts, thoughtful consideration
+                    Works best when audience is motivatedand analytical
+
+- Peripheral Route: Surface cues like attractiveness, emotion, celebrity
+                    Works when audience is not deeply engaged
+
+Different Routes: Different types of attitude change
+
+The Central Routeinvolves deep processing:
+- The audience carefully evaluates the message’s logic & evidence
+- If persuaded this way, the attitude change tends to be lasting & resistant to counter-persuasion
+
+The Peripheral Routerelies on superficial cues:
+- The audience may be distracted, disinterested, or emotionally influenced
+- This route leads to more temporary or fragile attitude change
+***** Central vs. Peripheral Route
+Central:
+- Careful Thought
+- Motivated, Analytical
+- Logical, Evidence-based
+- Strong, Lasting Chnage
+
+Peripheral:
+- Surface Cues
+- Distracted, Uninvolved
+- Emotional, Simple
+- Weak, Temporary Change
+** Cognitive Dissonance
+Cognitive Dissonance Definition: Psychological discomfort from holding conflicting thoughts, beliefs, or behaviors
+                                 When Attitudes & Actions Clash
+
+
+We’re motivated to reduce dissonance by:
+- Changing our attitude
+- Changing our behavior
+- Rationalizing the inconsistency
+*** Leon Festinger’s Classic Study (1959)
+Participants were asked to perform a boring task and then lie to another person, saying it was fun
+- Some were paid $1, others $20
+- Those paid only $1 were more likely to change their attitude & say they actually enjoyed the task
+- They had insufficient justification for lying, so they experienced more dissonance & adjusted their beliefs to reduce it
+This theory explains a lot of real-world behavior; why we justify purchases, stay in bad relationships, or downplay harmful habits
+** Conformity
+Conformity Definiton: Changing behavior to match the group
+*** Asch’s Line Study (1951)
+- Participants gave wrong answers to match group
+- 76% conformed at least once
+
+Shows power of normative social influence
+People conform even when they know the group is wrong
+
+In the Asch Line Study, participants were placed in a group with actors. Everyone was shown a line &
+then asked to match it to one of three comparison lines.
+The answer was obvious but the actors all gave the wrong answer aloud
+
+The real participant was seated last or second-to-last & heard everyone before them give the wrong answer.
+Despite knowing the correct line, 76% of participants conformedat least once, giving the wrong answer to go along with the group.
+This shows the power of normative social influence; we conform to fit in, avoid conflict, or feel accepted
+
+Importantly, Asch found that if just one other personbroke from the group, conformity dropped dramatically.
+This highlights how even a little support can empower dissent
+
+** Compliance
+Compliance Definiton: Agreeing to a request from someone without authority
+                      Is when we agree to do something someone asks; not because they have power over us,
+                      but because of social pressures & persuasion techniques
+
+Foot-in-the-Door:
+- Start with a small request -> increase to a larger one
+- People want to stay consistent
+
+Door-in-the-Face:
+- Start with a large request -> retreat to a smaller one
+- Creates a sense of guilt or obligation
+
+Both rely on social norms & psychological pressure
+** Obedience
+Obedience Definition: Following orders from an authority figure
+*** Milgram’s study (1961) | Obedience to Authority
+Tested how far people would go in obeying authority
+- Participants instructed to deliver shocks to a “learner”
+- 65% delivered the maximum 450 volts, despite stress
+
+Participants were told they were part of a learning experiment
+They played the role of the 'teacher', administering what they believed were increasingly severe electric shocks
+to a 'learner' (actually an actor) whenever they answered a question incorrectly
+
+Despite hearing the learner’s (fake) screams and pleas, 65% of participants continued all the way to 450 volts,
+labeled as 'XXX –Danger'. This shocked the scientific community—and the public.
+
+The study showed how situational forces, like the presence of a lab coat and a formal setting, can override personal conscience
+
+
+Ethical Issues:
+- Deception:          Participants believed they were harming someone
+- Emotional distress: Many were visibly upset or sweating
+Milgram's study helped shape today’s ethical research standards
+
+Shows power of authority & situational pressure
+Raised major ethical questionsin psychology
+** Groupthink
+Groupthink Definition: Group prioritizes consensus over sound decision-making
+                       When Harmony Overrides Critical Thinking
+
+Leads to poor outcomes due to:
+- Suppression of dissent
+- Illusion of invulnerability
+- Pressure for unanimity
+Common in tight-knit, highly cohesive groups
+
+This often happens in highly cohesive groups, especially under pressure
+Quite often when there's a strong leader & no clear process for disagreement
+
+Key Symptoms:
+- An illusion of invulnerability: 'We can’t fail'
+- Rationalization:                Dismissing warnings
+- Self-censorship:                People keep quiet even when they disagree
+- Pressure to conform:            Dissent is seen as disloyal
+
+Real-World Events:
+- The Bay of Pigs Invasion (1961):               U.S. officials avoided voicing doubts about a flawed military plan.
+- The Challenger Space Shuttle Explosion (1986): Engineers’ safety concerns were downplayed to maintain the launch schedule
+Groupthink shows how social pressure; even without formal authority, can lead to catastrophic decisions
+
+Prevent Groupthink:
+- Encourage open debate
+- Assign a “devil’s advocate”
+- Bring in outside opinions
+- Leader should remain impartial
+** Group Polarization & Social Facilitation
+Group Polarization:
+- Group discussion strengthens prevailing attitudes
+- Leads to more extreme positions
+- Can increase risky or radical decisions
+Occurs when individuals in a group end up holding stronger viewsthan they did before discussion
+
+Social Facilitation:
+- Presence of others enhances performance on simple or well-learned tasks
+- But can impair performance on difficult or new tasks
+Involves how the presence of others affects performance
+
+Social Loafing:
+- Individuals exert less effort when working in a group
+- Especially when individual contributions are not evaluated
+- Common in collective tasks (e.g., group projects, tug-of-war)
+Social loafing refers to the tendency for people to slack off when they’re working in a group
+
+Reduce Social Loafing:
+- Assign clear roles
+- Evaluate individual effort
+- Keep group size small
+- Leads to passivity
+
+Deindividuation:
+- Loss of self-awareness & individual accountability in groups
+- Leads to impulsive or deviant behavior
+- Happens in crowds, mobs, online anonymity
+- Leads to aggression
+** Prejudice, Stereotypes & Discrimination
+3 Elements of Bias: Cognition -> Affect -> Behavior
+- Stereotype: A cognitive shortcut; generalized belief about a group
+  - Are mental shortcuts—oversimplified beliefs that we use to categorize people
+  - Cognition
+
+- Prejudice: An affective (emotional) or attitude-based bias towards a group
+  - Refers to the emotional component—like hostility, fear, or dislike toward someone based solely on group membership
+  - Affect
+- Discrimination: Behavioral component—unjust treatment of individuals based on group membership
+  - Is the behavioral component—when prejudice leads to unfair treatment, like excluding someone from a job opportunity
+  - Behavior
+** Types of Bias
+- Explicit Bias: Conscious, deliberate prejudices
+  - Refers to attitudes and beliefs we're aware of
+
+- Implicit Bias: Unconscious, automatic associations
+  - Operates Unconsciously: it affects how we perceive others,
+    even if we consciously believe in equality
+
+- Implicit Association Test (IAT): Helps reveal hidden biases
+Both can influence behavior—often without awareness
+*** Origins & Maintenance of Prejudice
+- Social Learning:         Prejudices learned from family, peers, media
+- In-group/Out-group Bias: Favoring one's own group, stereotyping others
+- Scapegoating:            Blaming others for personal or societal problems
+  - Happens when people displace blame & frustration onto vulnerable groups
+
+Prejudice often reinforced by group norms & emotional experiences
+Prejudices don’t appear out of nowhere; they’re often taught, absorbed, & reinforced
+Once prejudice is formed, it often persists because it is emotionally charged, socially reinforced, & rarely challenged
+
+We also naturally categorize people into 'us' (in-group) and 'them' (out-group);
+this can lead to favoritism toward our own group & negative stereotyping of others
+**** Reducing Prejudice
+- Increased Contact:       Especially under cooperative, equal-status conditions
+- Education:               Learning about bias, stereotypes, & diverse perspectives
+- Perspective-Taking:      Encouraging empathy & “walking in another’s shoes”
+- Challenging Stereotypes: Actively countering biased thinking & language
+** Aggression & Altruism
+Agression:
+- Any behavior intended to harm or injure
+- Can be physical, verbal, or relational
+
+Instrumental Aggression:
+- Goal-oriented
+- Harm is a means to an end
+- Instrumental aggression is calculated; it’s a tool to achieve something else
+
+Hostile Aggression:
+- Driven by anger or frustration
+- Harm is the end goal
+- Hostile aggression is emotional; it’s about pain & revenge
+
+Can Include:
+- Physical violence
+- Verbal attacks
+- Social manipulation (like exclusion or rumor-spreading)
+Influences:
+- Biological Factors: Such as hormone levels (especially testosterone) & brain structures like the amygdala
+- Environmental Cues: Like heat, crowding, frustration or exposure to violent media
+- Social Learning:    As shown in Bandura’s famous Bobo doll experiment
+
+Altruism (Selfless Helping):
+- Helping others with no expectation of reward
+- May be motivated by empathy, social norms, or evolutionary advantages
+- Linked to prosocial behavior & cooperation
+Altruism also appears to offer evolutionary benefits through ‘kin selection’ or enhancing social bonds that lead to group survival
+*** Reduce Agression
+Cognitive & Emotional Strategies:
+
+Emotion regulation:
+- Teaching people to recognize and manage an
+- Promoting self-awareness & impulse control
+Empathy training:
+  - Encouraging perspective-taking reduces hostile responses
+  - Shifts focus from self to others
+
+Environmental & Social Approaches:
+- Modeling non-aggression:
+  - Children & adults learn through observation
+  - Promoting peaceful conflict resolution in schools & media
+- Improving communication skills:
+  - Reduces misunderstandings that can escalate conflict
+- Creating safe, structured environments:
+  - Reduced crowding, stress, & noise lowers aggressive responses
+  - Encouraging cooperative over competitive settings
+
+** The Bystander Effect
+- Bystander Effect:            Tendency to be less likely to help when others are present
+- Kitty Genovese case (1964):  Reportedly 38 witnesses, no one intervened
+  - The term gained widespread attention after the 1964 murder of Kitty Genovese in New York
+  - Reports at the time said 38 people witnessed the attack & did nothing
+- Diffusion of Responsibility: Each person assumes someone else will act
+
+The key mechanism is diffusion of responsibility; "we assume someone else will do something, so we don’t have to."
+The Bystander Effect: Occurs when people in a group fail to intervene, thinking others will step in.
+The more people there are, the less personal responsibility each individual feels
+
+Psychologists Latane & Darley followed up with lab experiments showing that when participants believed
+they were alone, they were much more likely to help a person in distress.
+But when they thought others were also aware, helping rates dropped sharply
+
+Prosocial Behavior:
+- Helping behaviors influenced by mood, similarity, modeling, & diffusion of responsibility
+*** Factors That Promote Helping
+What makes people more likely to help?
+- Positive Mood: People are more generous when they feel good
+- Gender:        Women more likely to receive help; men more likely to help in dangerous situations
+- Similarity:    We help those who seem like us
+- Modeling:      Seeing others help increases likelihood we will too
+
+* Chapter 15 | Introduction to Psychological Disorders
+** Why Understanding Mental Illness Matters
+- 1 in 5 adults in the U.S. experience mental illness each year (NAMI)
+- Early understanding reduces misconceptions, improves empathy
+- Psych disorders are treatable, & many people live productive lives with support
+- Reduces social isolation & promotes early help-seeking
+** Stigma & Myths
+Common myths:
+- “People with mental illness are violent” (truth: far more likely to be victims)
+- “Mental illness is a sign of weakness” (false—often biological/neurological basis)
+- “They just need to try harder” (misunderstands chronic nature of many disorders)
+
+Stigma prevents treatment -> only ~50% of people with mental illness receive help
+** Defining Psychological Disorders
+- Behavior considered “abnormal” in one culture may be normal in another
+
+Culture affects:
+- How symptoms are expressed
+- Whether someone seeks treatment
+- How symptoms are interpreted
+*** The “4 Ds” of Psychological Disorders
+- Deviance
+  Behavior deviates from societal norms (e.g., hearing voices, public nudity)
+  HOWEVER: deviance alone doesnt = disorder
+
+- Dysfunction
+  Interferes with daily life (work, school, relationships)
+
+- Distress
+  Causes significant emoKonal suffering (e.g., sadness, anxiety, fear)
+
+- Danger
+  Poses risk of harm to self or others
+  Rare, but critical (e.g., suicidal ideation, aggression)
+
+  Not every disorder involves all 4 Ds; but at least one is usually present.
+
+*** DSM-5 & Classification
+- Stands for: Diagnos & Statistical Manual of Mental Disorders, 5th Edition
+- Published by the American Psychiatric Association (APA)
+- Provides standardized criteria for diagnosing mental disorders
+
+Includes:
+- Symptom lists
+- Duration requirements
+- Impairment/distress indicators
+
+Not organized by cause, but by observable patterns of symptoms
+
+Strengths of the DSM-5:
+- Provides consistency in diagnosis
+- Facilitates communication among professionals
+- Allows for research & treatment planning
+- Includes cultural considerations (e.g., Cultural Formulation Interview)
+
+Critiques of the DSM-5:
+- May lead to labeling & stigma
+- Can encourage a checklist-approach
+- Some diagnoses are culturally biased
+- Critics argue it pathologizes normal behavior
+- Pharmaceutical influence on categories is debated
+**** Major Categories of Disorders in DSM-5
+- Anxiety Disorders
+- Mood Disorders (e.g., depressive, bipolar)
+- Schizophrenia Spectrum & Other Psychotic Disorders
+- Obsessive-Compulsive & Related Disorders
+- Trauma-and Stressor-Related Disorders
+- Dissociative Disorders
+- Somatic Symptom Disorders
+- Neurodevelopmental Disorders (e.g., autism, ADHD)
+- Personality Disorders
+- Substance-Related & Addictive Disorders (Plus others: feeding/eating, sleep-wake, etc.)
+
+** Perspectives on Psychological Disorders
+- BIOLOGICAL PERSPECTIVE
+- PSYCHOLOGICAL PERSPECTIVES
+- SOCIOCULTURAL PERSPECTIVE
+- BIOPSYCHOSOCIAL MODEL (INTEGRATED)
+*** Bilogical Perspective
+- Genetic inheritance      (e.g., schizophrenia, bipolar disorder)
+- Neurochemical imbalances (e.g., serotonin in depression)
+- Brain abnormalities      (e.g., enlarged ventricles in schizophrenia)
+
+Treatments often Include:
+- Medications
+- Brain Stiumation Therapies
+- Neurosurgey (Rare)
+
+Biopsychosocial Model:
+- Disorders arise from a combination of biological, psychological, & sociocultural influences
+*** Psychological Perspective
+- Psychodynamic (Freud)
+  Disorders stem from unconscious conflicts, childhood trauma
+
+- Behavioral
+  Abnormal behavior is learned through conditioning
+
+- Cognitive
+  Disorders come from irrational or distorted thoughts
+*** Sociocultral Perspective
+Emphasizes:
+- Cultural norms
+- Socioeconomic status
+- Race, gender, stigma
+- Family systems
+
+Main Idea: The environment we grow up in can shape what we see as “normal” or ”illness”.
+** Generalized Anxiety Disorder (GAD)
+- Definition: Persistent & excessive worry about various aspects of daily life.
+- Symptoms: Restlessness, fatigue, muscle tension, difficulty concentraLng, sleep disturbances.
+- Duratioon: Must last at least 6 months.
+** Panic Disorder
+- Definition: Recurrent, unexpected panic attacks—sudden surges of intense fear or discomfort
+- Physical Symptoms: Heart palpitations, chest pain, shortness of breath, dizziness
+- Cognitive Symptoms: Fear of dying or “going crazy”
+- Key Feature: Fear of future attacks (anticipatory anxiety) often leads to avoidance behavior.
+** Phobias
+- Definition: Intense, irrational fear of a specific object or situation
+- Common Types: Spiders (arachnophobia), flying (aviophobia), heights (acrophobia)
+- Behavior: Avoidance of phobic stimulus; fear is out of proportion to the actual danger.
+*** Social Anxiety Disorder
+- Definition: Intense fear of being judged, humiliated, or embarrassed in social situations
+- Symptoms: Avoidance of speaking in public, eating in front of others, or attending social events
+- Impact: Can severely limit educational, occupational, & social functioning
+** Etiology
+- Biological factors: Genetic predisposition, overactive amygdala
+- Cognitive factors:  Irrational thinking patterns, catastrophizing
+- Learning:           Classical conditioning, observational learning, reinforcement
+** Obsessive-Compulsive & Related Disorders
+Key Concept: Obsessions vs. Compulsions
+
+- Obsessions:  Recurrent, intrusive, unwanted thoughts, urges, or imagesthat cause anxiety
+- Compulsions: Reptitive behaviors or mental acts performed to reduce anxiety from obsessions
+*** Obsessive-Compulsive Disorder (OCD)
+- Affects about 2% of the population
+- Symptoms must be time-consuming (more than 1 hour/day) or cause significant distress or impairment
+- Neurological link: Overactivity in the orbitofrontal cortex & caudate nucleus
+
+People with OCD ocen recognize their thoughts & behaviors as irrational, but they feel driven to perform them anyway
+*** Body Dysmorphic Disorder (BDD)
+- Preoccupation with a perceived physical flaw (often unnoticeable to others)
+- Repetitive behaviors: Mirror checking, grooming, comparing
+
+Can lead to severe emotional distress & social avoidance
+*** Hoarding Disorder
+- Persistent difficulty discarding possessions, regardless of value.
+- Clutter interferes with daily life & can pose health/safety risks.
+- Often accompanied by indecisiveness, perfectionism, & emotional attachment.
+*** Post-Traumatic Stress Disorder (PTSD)
+- Post-Traumatic Stress Disorder (PTSD): Is a chronic stress reaction that occurs after experiencing or
+                                         witnessing a traumatic event involving actual or threatened death, serious injury, or sexual violence
+Core Sympthons (In Order):
+- Intrusion:                 Flashbacks, nightmares, intrusive memories
+- Avoidance:                 Efforts to avoid trauma-related thoughts, feelings, or reminders (e.g., people, places).
+- Negative Mood & Cognition: Guilt, shame, emotional numbness, distorted blame, memory issues
+- Hyperarousal:              Startle response, irritability, difficulty sleeping, hypervigilance
+
+Differences in amygdala, hippocampus, & prefrontal cortexin PTSD patients:
+- Amygdala:          Hyperactive (fear)
+- Prefrontal cortex: Underactive (inhibition)
+- Hippocampus:       Smaller volume (memory processing)
+
+EMDR: Eye Movement Desensitization & Reprocessing
+** Mood Disorders
+Depression affects thinking, feeling, & physical health not just “sadness”
+*** Major Depressive Disorder (MDD)
+Definition: Persistent feelings of sadness, hopelessness, and loss of interest or pleasure (anhedonia) lasting at least 2 weeks
+
+Symptoms (must include 5+):
+- Depressed mood | Anhedonia
+- Weight/appetite changes | Sleep disturbances
+- Fatigue/loss of energy | Trouble concentrating
+- Feelings of worthlessness or guilt | Suicidal thoughts
+*** Bipolar Disorder
+Highest suicide risks: MDD & Bipolar Disorder
+**** Bipolar 1 Disorder
+At least one full manic episode, possibly with depressive episodes
+
+Mania: Abnormally elevated mood, energy, or irritability lasting 1 week or more, often with:
+- Inflated self-esteem
+- Decreased need for sleep
+- Rapid speech/thoughts
+- Impulsive behavior (spending sprees, risky sex)
+**** Bipolar 2 Disorder
+- Hypomania: less intense mania (no psychosis or hospitalization) + major depressive episodes
+  More chronic, with mood cycling over time
+** Schizophrenia Spectrum & Psychotic Disorders
+*** Schizophrenia
+Definition: A severe psychological disorder characterized by distortions in thinking, perception, emotions, language, & behavior.
+            It affects about 1% of the population worldwide
+**** Core Symptoms:
+Positive Symptoms (excesses or distortions)
+- Hallucinations:               Sensory perceptions without external stimuli
+- Most common:                  Auditory(e.g., hearing voices)
+- Delusions:                    Strongly held false beliefs
+- Types:                        Persecutory, Grandiose, Referential, Nihilistic
+- Disorganized Thinking/Speech: Word Salad, Tangents
+- Abnormal Motor Behavior:      Catatonia, agitaLon
+
+Negative Symptoms (loss of normal functioning)
+- Flat affect: Limited emotional expression
+- Avolition:   Lack of motivation
+- Alogia:      Poverty of speech
+- Anhedonia:   Reduced pleasure
+- Social withdrawal
+
+**** Onset, Course, & Prognosis
+- Typical Onset: Late adolescence to early adulthood (often earlier in males)
+- Course:        Chronic condition with episodes of psychosis & periods of relative stability
+- Prognosis:     Varies; better with early treatment, strong support, & medication adherence
+Recovery is possible, especially with consistent treatment
+**** Treatment Overview
+Antipsychotic Medications (e.g., risperidone, olanzapine)
+- Block dopamine receptors to reduce posiVve symptoms
+
+Psychosocial Interventions
+- CBT for psychosis
+- Social skills training
+- Supported employment & housing
+*** Dissociative Disorders
+Dissociative Disorders: Fragmentation of Identity & Memory
+Definition: Psychological disorders involving disruptions or discontinuitiesin consciousness, memory, identity, or perception
+
+Often associated with severe trauma, especially in early life
+
+**** Dissociative Identity Disorder (DID)
+Formerly called multiple personality disorder
+
+- Presence of two or more distinct personality states ("alters")
+- Memory gaps for everyday events or trauma
+- AlteraLons in behavior, voice, mannerisms
+
+Often linked to severe childhood trauma or abuse
+**** Dissociative Amnesia
+Inability to recall important autobiographical info, usually related to trauma or stress
+Not due to ordinary forgetting or brain injury
+
+May Invlove:
+- Localized amnesia (specific event)
+- Generalized amnesia(entire life history)
+
+Rare subtype: Dissociative Fugue
+- Sudden travel away from home + identity confusion
+**** DD Controversies
+DID diagnosis is debated:
+- Critics argue it may be iatrogenic(created by therapy or media)
+- Sharp rise in diagnoses after media portrayals like Sybilor Split
+- Recovered memories under hypnosis are unreliable
+- Some psychologists question the validity of the disorder, citing a lack of biological markers
+*** Personaltity Disorders
+Enduring, inflexible patterns of behavior that impair social functioning
+**** Cluster A: Odd / Ecentric
+- Paranoid Personality Disorder:    Distrustful, suspicious, interprets others’ motives as malevolent
+- Schizoid Personality Disorder:    Detached from relationships, emotionally flat
+- Schizotypal Personality Disorder: Eccentric thoughts/behaviors, social anxiety, magical thinking
+**** Cluster B: Dramatic / Emotional / Erratic
+- Antisocial Personality Disorder:   Disregard for others’ rights, deceitfcul, impulsive, lack of remorse
+- Borderline Personality Disorder:   Instability in self-image, emotions, and relationships; fear of abandonment
+- Histrionic Personality Disorder:   Excessive emotionality & attention-seeking
+- Narcissistic Personality Disorder: Grandiosity, need for admiration, lack of empathy
+**** Cluster C: Anxious / Fearful
+- Avoidant Personality Disorder:             Social inhibition, feelings of inadequacy, hypersensitive to critcism
+- Dependent Personality Disorder:            Submissive, clingy, needs to be taken care of
+- Obsessive-Compulsive Personality Disorder: (OCPD)–Preoccupation with order, perfectionism, control
+*** Neurodevelopmental Disorders
+Conditions with early onset that disrupt normal brain development & functioning
+**** Autism Spectrum Disorder (ASD)
+Core Features:
+- Deficits in social interaction & communication
+- Restricted:           Repettitve behaviors & interests
+- Range of Severity:    From highly impaired to high-functioning
+- Early Signs:          Limited eye contact, delayed language, lack of pretend play
+- Developmental Course: Symptoms typically appear by age 2–3
+
+Note: No known single cause; strong genetic & neurobiological factors
+**** Attention-Deficit/Hyperactivity Disorder (ADHD)
+Core Features:
+- Inattention                (e.g., difficulty sustaining focus)
+- HyperacLvity & impulsivity (e.g., fidgeLng, interrupLng)
+
+Types:
+- Predominantly inattentive
+- Predominantly hyperactive-impulsive
+- Combined Presentation
+- Developmental Course: Onset before age 12; symptoms may continue into adulthood
+
+Note: Ocen misunderstood as a discipline issue rather than a neurodevelopmental disorder
+
+Key Emphasis:
+- These disorders emerge in early childhood
+- They reflect a typical brain development, not just behavioral problems
+- Early intervention & support can greatly improve outcomes
+** Feeding, Eating, & Substance Use Disorders
+*** Anorexia Nervosa
+- Intense fear of gaining weight, severe food restriction, distorted body image
+- Can lead to extreme weight loss, organ damage, and even death
+*** Bulimia Nervosa
+- Cycles of binge eating followed by purging (vomiting, laxatives, excessive exercise)
+- Typically normal weight; high medical risk (e.g., electrolyte imbalance)
+*** Binge-Eating Disorder
+- Recurrent episodes of binge eating without compensatory behaviors
+- Often linked to shame, obesity, & emotional distress
+*** Substance Use Disorders (SUDs)
+Core Features:
+- Compulsive use despite harmful consequences
+- Craving, tolerance, withdrawal
+
+Common Substances:
+- Alcohol:    Most widely used; linked to liver disease, accidents, addiction
+- Opioids:    Pain relievers with high addiction & overdose risk (e.g., heroin, fentanyl)
+- Stimulants: Include cocaine, meth, ADHD meds; risk of psychosis, heart issues
+
+Public Health Connection:
+- Eating & substance use disorders are major causes of disability & death
+- They place a heavy burden on healthcare systems, families, & communities
+- Prevention, early intervention, & education are key to reducing harm
+** Cultural & Historical Perspectives
+Mental illness is shaped by cultural context and has a long, evolving history of treatment
+
+- Different cultures have distinct beliefs about the causes, symptoms, & treatment of mental illness
+- Some cultures emphasize spiritual or supernatural explanations, while others focus on biological or emotional causes
+
+
+Cultural norms affect:
+- Stigma                (e.g., shame vs. acceptance)
+- Help-seeking behavior
+- Diagnosis & treatment (e.g., Western medicine vs. traditional healing)
+*** Historical Treatment of Mental Illness
+Pre-18th Century:
+- Disorders seen as demonic possession, treated with exorcism, isolation, or punishment
+
+Asylums (1700s–1800s):
+- Institutions created to house mentally ill individuals, often in inhumane conditions
+
+Moral Treatment Movement (1800s):
+- Led by figures like Dorothea Dixand Philippe Pinel
+- Advocated for compassionate care & dignity
+
+Deinstitutionalization (1950s–1980s):
+- Shift from long-term institutional care to community-based treatment
+- Driven by new medicaLons (e.g., antipsychotics) & civil rights concerns
+- Resulted in mixed outcomes, including homelessness & gaps in care
+*** Culture-Bound Syndromes
+- Disorders unique to specific cultures, often not found in Western diagnostic systems
+** Treatments
+Modern approaches to treating psychological disorders often combine therapy, medication, & support
+*** Psychotherapy AKA "Talk Therapy"
+Helps individuals understand change thoughts, emotions, & behaviors
+
+Common types:
+- Cognitive Behavioral Therapy (CBT): Challenges distorted thinking patterns
+- Psychodynamic Therapy:              Explores unconscious conflicts past experiences
+- Humanistic Therapy:                 Emphasizes self-growth & personal insight
+*** Medication
+Ocen prescribed for biological symptoms of mental disorders
+
+Examples:
+- Antidepressants (e.g., SSRIs for depression and anxiety)
+- Antipsychotics (e.g., schizophrenia, bipolar disorder)
+- Stimulants     (e.g., ADHD)
+
+Usually most effective when combined with therapy
+*** Integrated Treatments
+Often includes family involvement, lifestyle changes, & community support
+Many treatment plans involve a combination of approaches
+
+Example: 
+- CBT + antidepressants for depression
+- Therapy + case management + peer support for schizophrenia
+
+Key Idea: Effective treatment is individualized
+Often involves a biopsychosocial approach

@@ -2,7 +2,7 @@
 * Chapter 1 | Intro to PSY
 - Psy is a science & a profession
 
-PSY is a science because it uses evidence
+PSY is a science because it uses evidence | Hypotheses & collect data
 
 No single prespective will explain everything, you must be skeptical
 Measure "how we know what we know" & be willing to change your view
@@ -10,15 +10,81 @@ Measure "how we know what we know" & be willing to change your view
 - Scientific Method is very important in PSY
   Observation, Question, Hypothisis, Experiement, Analysis, Conclusion, Replication
 
+- Questions about mind & behavior date back to Socrates, Plato, & Aristotle;
+  Modern psychology builds on philosophical inquiry & biological science
+
 Wilhem Wundt (1879):
-Father of Modern Psy
+- Established the first psychology lab in Leipzig, Germany;
+- Father of Modern Psy
+- Emphasized introspection & reaction time
 
-Structuralim (Edward Titchener): Mental Processes that comes from introspection
-Introspection: Interal mental focus on processes
+Structuralim (Edward Titchener):
+- Mental Processes that comes from introspection | Breaking down mental processes into the most basic components
+- Introspection: Interal mental focus on processes
 
-Gestalt Psy: Made in germany; idea of: whole > parts
+Functionalism (William James):
+- Emphasized the function & purpose of behavior & consciousness
+- How they help individuals adapt to their environments
+** History of Psychology
+Gestalt Psy
+- Made in germany; idea of: mind reads whole patterns > parts
+
+Psychoanalysis (Sigmund Freud):
+- Emphasized the influence of the unconscious mind, childhood experiences, & inner conflicts on behavior & mental health
+- Introduced concepts like defense mechanisms, id/ego/superego
 ** Modern Psychological Perspectives
+Behavioral Perspective (Watson, Skinner):
+- Focuses on observable behavior & how its learned through interaction with the environment.
+- Emphasizes reinforcement and punishment
+
+Humanistic Perspective (Rogers, Maslow):
+- Emphasizes personal growth, self-actualization, & the inherent goodness of people.
+- Focuses on free will and human potential.
+
+Cognitive Perspective (Beck, Piaget):
+- Studies mental processes such as thinking, memory, language, & problem-solving.
+- Explains how people process, store, retrieve information
+
+Biological Perspective:
+- Examines the influence of genetics, the brain, & the nervous system on behavior & mental processes.
+- Includes neuropsychology & brain imaging studies.
+
+Evolutionary Perspective:
+- Applies principles of evolution & natural selection to explain psychological traits & behaviors.
+- Investigates how behaviors may be adaptive for survival.
+
+Sociocultural Perspective:
+- Looks at how behavior & thinking vary across cultures & social contexts.
+- Highlights the role of ethnicity, gender, culture, & socioeconomic status.
+
+Biopsychosocial Model:
+- Integrates biological, psychological, & social factors in understanding health, behavior, & mental processes.
+- Recognizes complexity & interplay of multiple influences.
+** Applied vs. Basic Research:
+Basic:
+- Seeks to expand general knowledge of psychological phenomena
+- Focuses on foundational theories & concepts
+- Studying how memory works, understanding brain mechanisms involved in emotion
+
+Applied:
+- Seeks to solve practical, real-world problems
+- Uses psychological principles to improve everyday life & human functioning
+- Developing treatments for anxiety, improving educational methods, workplace productivity studies
 ** Critical Thinking
+The ability to think clearly, rationally, and independently while evaluating information
+
+- Evaluate Evidence:            Assess the quality & credibility of sources; question assumptions.
+- Be Open-Minded but Skeptical: Consider alternative explanations while demanding logical reasoning and evidence.
+- Recognize Biases:             Identify personal, cultural, & cognitive biases that influence thinking.
+- Avoid Logical Fallacies:      Be aware of errors in reasoning (e.g., false cause, ad hominem, confirmation bias).
+- Apply Logic and Reasoning:    Use structured thinking to draw sound conclusions from available evidence
+- Ad Hominem:                   Attacking the person rather than addressing the argument. E.g., “You’re wrong because you’re not a real psychologist.”
+
+** Ethics
+- Informed Consent
+- Confidentiality
+- Debriefing
+- Institutional Review Board (IRB) Approval
 * Chapter 3 | BioPSY
 Study of the brain/nervous system
 
@@ -150,9 +216,6 @@ Key Parts:
 People are like plastic, they can change; adapt across life
 Development occurs within cultural, historical, economic, & social contexts
 Opens jobs to education, counseling & social work
-
-# TODO: Add Gilligan
-
 ** 8 Stages of Life
 *** Prenatal Stage         (Begins at conception & ends at birth)
 Most rapid period of growth
@@ -287,7 +350,7 @@ Highlights the importance of education, mentorship, & environment in learning
 ** Ecological Systems Theory - Urie Bronfenbrenner
 Development is influenced by multiple environmental systems that interact with each other
 Emphasizes the complex interplay between individual & environment
-*** Five nested systems:
+*** Five nested systems
 - Microsystem: Immediate surroundings (family, school).
 - Mesosystem: Interactions between microsystems (e.g., parent–teacher relationship).
 - Exosystem: Indirect environments (e.g., parent’s workplace).
@@ -302,7 +365,11 @@ Moral growth is often linked to cognitive development, but not everyone reaches 
 - Conventional (Early Adolescence):                  Based on laws & social approval.
 - Post-conventional (Late Adolescence & Adulthood):  Based on personal ethics & universal principles.
 
-Critisms: Cultrual Bias, Gender Bias, Moral Reasoning != Moral Behavior
+Critisms: Cultrual Bias, Gender Bias (Carol Gilligan), Moral Reasoning != Moral Behavior
+*** Gilligans Ethics of Care
+Carol Gilligan suggested an alternative framework, especially in the context of women’s development:
+- Men may focus more on abstract justice.
+- Women may focus more on relationships, care, & responsibility to others.
 ** Attachment Theory - Bowlby
 - John Bowlby proposed that attachment is biologically based
 - Infants are born with attatchment behaviors that promotes closeness to caregivers
@@ -313,19 +380,20 @@ Critisms: Cultrual Bias, Gender Bias, Moral Reasoning != Moral Behavior
 - Avoidment: Little distress when caregiver leaves
 - Resistant (Ambivalent): Very distressed; not easily conforted
 - Disorganized: Confused, fearful behavior
+About 60% of infants display secure attachment in the U.S.
 ** Parenting Styles - Diana Baumrind
 Baumrind identifed 4 types of parenting styles
-- Authoritative: High warmth, high control
-  Child: High self-esteem, good social skills, acadmic success
-- Authoritarian: Low warmth, high control; Strict
-  Child: Obedient but lower happiness
-- Permissive: High warmth, low control; very lenient
-  Child: Impulsive & a lack of self-discipline
+- Authoritative:           High warmth, high control
+  Child:                   High self-esteem, good social skills, acadmic success
+- Authoritarian:           Low warmth, high control; Strict
+  Child:                   Obedient but lower happiness
+- Permissive:              High warmth, low control; very lenient
+  Child:                   Impulsive & a lack of self-discipline
 - Uninvolved (Neglectful): Low warmth, low control; emotionally detatched
-  Child: Attatchment issues, poor emotional regulation
+  Child:                   Attatchment issues, poor emotional regulation
 ** Individualism vs. Collectivism
-- Parenting Styles: Some cultures emphasize independence (e.g., U.S.), others emphasize interdependence (e.g., many Asian or Latin American cultures).
-- Emotional Expression: Cultures vary in how openly emotions are expressed or managed.
+- Parenting Styles:      Some cultures emphasize independence (e.g., U.S.), others emphasize interdependence (e.g., many Asian or Latin American cultures).
+- Emotional Expression:  Cultures vary in how openly emotions are expressed or managed.
 - Cognitive Development: Cultural tools (language, education, storytelling) shape how children learn & reason.
 
 - Individualist cultures (U.S., Canada...): Value personal goals & self-expression.
@@ -333,12 +401,11 @@ Baumrind identifed 4 types of parenting styles
 ** Research Methods
 - Cross-Sectional Studies: Follow the same individuals across many years.
   Show real developmental change but can be time-consuming & expensive.
-- Longitudinal Studies: Combine cross-sectional & longitudinal designs.
-- Sequential Studies: Track multiple age groups over time for a more complete picture.
+- Longitudinal Studies:    Combine cross-sectional & longitudinal designs.
+- Sequential Studies:      Track multiple age groups over time for a more complete picture.
 - Observational Studies
 - Surveys & Interviews
 - Experiments
-
 * Chapter 4 | States of Consciouness
 Consciousness is our awareness of internal & external stimuli;
 Exists on a spectrum from full awareness to deep sleep & unconscious states
@@ -679,14 +746,14 @@ Learning can involve restructuring information in the mind rather than simple st
 Organisms are biologically predisposed to learn certain behaviors more easily than others due to evolutionary adaptations
 
 - Taste aversion(Garcia effect): Rats learn to avoid food associated with illness after just one trial
-- Instinctive drift: Learned behaviors can be overridden by instinctual behaviors
+- Instinctive drift:             Learned behaviors can be overridden by instinctual behaviors
 *** Preparedness & Phobias
 - Humans & animals are biologically “prepared” to learn associations that are relevant to survival
 - This is believed to be due to evolutionary mechanisms that helped our ancestors avoid danger
 *** Brain Structures
-- Hippocampus: Crucial for forming new memories | Declaring specific memories
-- Amygdala: Involved in emotional learning,especially fear conditioning.
-- Cerebellum: Important for procedural learning, like motor skills & classical conditioning of reflexes
+- Hippocampus:       Crucial for forming new memories | Declaring specific memories
+- Amygdala:          Involved in emotional learning,especially fear conditioning.
+- Cerebellum:        Important for procedural learning, like motor skills & classical conditioning of reflexes
 - Prefrontal Cortex: Engaged in executive functions, decision-making, & evaluating consequences in operant learning
 ** Cultural Influences
 Observational learning is more prominent in some Indigenous & collectivist cultures:

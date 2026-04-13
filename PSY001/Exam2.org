@@ -595,7 +595,7 @@ Social psychology largely favors situationism
 - Feelings  (e.g., empathy, prejudice, attraction)
 - Behaviors (e.g., conformity, helping, aggression)
 
-Emphasis on the power of the situationand social context
+Emphasis on the power of the situation & social context
 ** Why Study?
 Ultimately, studying social psychology helps us navigate social life more wisely
 
@@ -611,7 +611,7 @@ It gives us tools to become more:
 - Informed
 - Socially responsible individuals
 ** Situationism vs. Dispositionism
-- Situationism:   Behavior is influenced more by the environmentand context
+- Situationism:   Behavior is influenced more by the environment & context
   Situationismis the idea that our behavior is primarily shaped by external factors—the environment,
   social norms, the presence of others
 
@@ -632,7 +632,7 @@ Cultures:
 
 Attribution:
 - How we explain others’ behavior (e.g., fundamental attribution error, actor-observer bias)
-- Influenced by cultureand context
+- Influenced by culture & context
 ** Actor-Observer Bias & Self-Serving Bias
 How we explain our own behavior versus others'
 
@@ -699,7 +699,7 @@ Two Routes to Persuasion: Central vs. Peripheral
 
 Attitude Change:
 - Central Route:    Logic, facts, thoughtful consideration
-                    Works best when audience is motivatedand analytical
+                    Works best when audience is motivated & analytical
 
 - Peripheral Route: Surface cues like attractiveness, emotion, celebrity
                     Works when audience is not deeply engaged
@@ -735,7 +735,7 @@ We’re motivated to reduce dissonance by:
 - Changing our behavior
 - Rationalizing the inconsistency
 *** Leon Festinger’s Classic Study (1959)
-Participants were asked to perform a boring task and then lie to another person, saying it was fun
+Participants were asked to perform a boring task & then lie to another person, saying it was fun
 - Some were paid $1, others $20
 - Those paid only $1 were more likely to change their attitude & say they actually enjoyed the task
 - They had insufficient justification for lying, so they experienced more dissonance & adjusted their beliefs to reduce it
@@ -785,10 +785,10 @@ Participants were told they were part of a learning experiment
 They played the role of the 'teacher', administering what they believed were increasingly severe electric shocks
 to a 'learner' (actually an actor) whenever they answered a question incorrectly
 
-Despite hearing the learner’s (fake) screams and pleas, 65% of participants continued all the way to 450 volts,
-labeled as 'XXX –Danger'. This shocked the scientific community—and the public.
+Despite hearing the learner’s (fake) screams & pleas, 65% of participants continued all the way to 450 volts,
+labeled as 'XXX –Danger'. This shocked the scientific community—& the public.
 
-The study showed how situational forces, like the presence of a lab coat and a formal setting, can override personal conscience
+The study showed how situational forces, like the presence of a lab coat & a formal setting, can override personal conscience
 
 
 Ethical Issues:
@@ -870,7 +870,7 @@ Deindividuation:
   - Behavior
 ** Types of Bias
 - Explicit Bias: Conscious, deliberate prejudices
-  - Refers to attitudes and beliefs we're aware of
+  - Refers to attitudes & beliefs we're aware of
 
 - Implicit Bias: Unconscious, automatic associations
   - Operates Unconsciously: it affects how we perceive others,
@@ -888,7 +888,7 @@ Prejudice often reinforced by group norms & emotional experiences
 Prejudices don’t appear out of nowhere; they’re often taught, absorbed, & reinforced
 Once prejudice is formed, it often persists because it is emotionally charged, socially reinforced, & rarely challenged
 
-We also naturally categorize people into 'us' (in-group) and 'them' (out-group);
+We also naturally categorize people into 'us' (in-group) & 'them' (out-group);
 this can lead to favoritism toward our own group & negative stereotyping of others
 **** Reducing Prejudice
 - Increased Contact:       Especially under cooperative, equal-status conditions
@@ -928,7 +928,7 @@ Altruism also appears to offer evolutionary benefits through ‘kin selection’
 Cognitive & Emotional Strategies:
 
 Emotion regulation:
-- Teaching people to recognize and manage an
+- Teaching people to recognize & manage an
 - Promoting self-awareness & impulse control
 Empathy training:
   - Encouraging perspective-taking reduces hostile responses
@@ -1034,7 +1034,7 @@ Critiques of the DSM-5:
 - Mood Disorders (e.g., depressive, bipolar)
 - Schizophrenia Spectrum & Other Psychotic Disorders
 - Obsessive-Compulsive & Related Disorders
-- Trauma-and Stressor-Related Disorders
+- Trauma-& Stressor-Related Disorders
 - Dissociative Disorders
 - Somatic Symptom Disorders
 - Neurodevelopmental Disorders (e.g., autism, ADHD)
@@ -1134,7 +1134,7 @@ EMDR: Eye Movement Desensitization & Reprocessing
 ** Mood Disorders
 Depression affects thinking, feeling, & physical health not just “sadness”
 *** Major Depressive Disorder (MDD)
-Definition: Persistent feelings of sadness, hopelessness, and loss of interest or pleasure (anhedonia) lasting at least 2 weeks
+Definition: Persistent feelings of sadness, hopelessness, & loss of interest or pleasure (anhedonia) lasting at least 2 weeks
 
 Symptoms (must include 5+):
 - Depressed mood | Anhedonia
@@ -1225,7 +1225,7 @@ Enduring, inflexible patterns of behavior that impair social functioning
 - Schizotypal Personality Disorder: Eccentric thoughts/behaviors, social anxiety, magical thinking
 **** Cluster B: Dramatic / Emotional / Erratic
 - Antisocial Personality Disorder:   Disregard for others’ rights, deceitfcul, impulsive, lack of remorse
-- Borderline Personality Disorder:   Instability in self-image, emotions, and relationships; fear of abandonment
+- Borderline Personality Disorder:   Instability in self-image, emotions, & relationships; fear of abandonment
 - Histrionic Personality Disorder:   Excessive emotionality & attention-seeking
 - Narcissistic Personality Disorder: Grandiosity, need for admiration, lack of empathy
 **** Cluster C: Anxious / Fearful
@@ -1263,7 +1263,7 @@ Key Emphasis:
 ** Feeding, Eating, & Substance Use Disorders
 *** Anorexia Nervosa
 - Intense fear of gaining weight, severe food restriction, distorted body image
-- Can lead to extreme weight loss, organ damage, and even death
+- Can lead to extreme weight loss, organ damage, & even death
 *** Bulimia Nervosa
 - Cycles of binge eating followed by purging (vomiting, laxatives, excessive exercise)
 - Typically normal weight; high medical risk (e.g., electrolyte imbalance)
@@ -1285,7 +1285,7 @@ Public Health Connection:
 - They place a heavy burden on healthcare systems, families, & communities
 - Prevention, early intervention, & education are key to reducing harm
 ** Cultural & Historical Perspectives
-Mental illness is shaped by cultural context and has a long, evolving history of treatment
+Mental illness is shaped by cultural context & has a long, evolving history of treatment
 
 - Different cultures have distinct beliefs about the causes, symptoms, & treatment of mental illness
 - Some cultures emphasize spiritual or supernatural explanations, while others focus on biological or emotional causes
@@ -1325,7 +1325,7 @@ Common types:
 Ocen prescribed for biological symptoms of mental disorders
 
 Examples:
-- Antidepressants (e.g., SSRIs for depression and anxiety)
+- Antidepressants (e.g., SSRIs for depression & anxiety)
 - Antipsychotics (e.g., schizophrenia, bipolar disorder)
 - Stimulants     (e.g., ADHD)
 
@@ -1340,3 +1340,682 @@ Example:
 
 Key Idea: Effective treatment is individualized
 Often involves a biopsychosocial approach
+* Chapter 16 | Introduction to Therapy AKA Talk Therapy
+A process where trained professionals help individuals
+- Understand & resolve problems
+- Modify thoughts, emotions, & behaviors
+- Improve overall mental well-being
+
+Can be individual, group, family, or couples-based
+** Why Seek Therapy?
+To cope with:
+- Mental health conditions (e.g., depression, anxiety, trauma)
+- Life stressors (e.g., grief, relationships, job loss)
+- Personal growth & insight
+
+Sometimes recommended by doctors, schools, or family
+** Stigma & Barriers
+Stigma:           Fear of being judged or labeled
+Cultural beliefs: Some cultures discourage open discussion of emotions
+
+Access issues:
+- Financial cost
+- Lack of providers, especially in rural/underserved areas
+- Language barriers, transportation, time constraints
+** Psychotherapy by the Numbers
+- About 8.5% of U.S. adults attend psychotherapy in any given year (as of 2021)
+- Roughly 30% have tried psychotherapy at some point in their lives
+- Younger adults are more likely to seek therapy than older adults
+- Millennials have the highest rates of planning or attending therapy, followed by Gen Z & Gen X
+- Baby Boomers are least likely to seek therapy, with 80% reporting they do not plan to attend in the next year
+- Women are significantly more likely than men to seek psychotherapy or mental health treatment
+- People in small towns & rural areas may be less likely to receive therapy due to fewer providers
+  & logistical challenges, & instead may rely more on medication
+- Non-Hispanic white adults are most likely to receive mental health services, with 23% having received such treatment
+- Compared to 13.6% of non-Hispanic Black adults & 12.9% of Hispanic adults
+- Non-Hispanic Asian adults show the lowest therapy participation rates
+
+Lower Income = Less Likely to access Therapy
+** History of Mental Health Treatment
+Early Treatments:
+ - Trephination (stone age–Middle Ages):
+   - Drilling holes into the skull to "release spirits"
+   - Exorcism & Spiritual Healing: Mental illness seen as possession by demons or moral failure
+   - Treatments included fasting, prayer, beatings, or isolation
+
+ Asylums & Institutionalization (16th–19th Century):
+  - Asylums were created to isolate the mentally ill
+   - Often overcrowded, inhumane, with poor sanitation
+   - Patients sometimes chained or displayed to the public
+   - Example: Bethlehem Hospital (“Bedlam”), London
+  - Moral Reform Movement:
+   - Advocated by Philippe Pinel(France) & Dorothea Dix (U.S.)
+   - Pushed for humane treatment, cleanliness, & respect
+
+ Bethlehem Hospital:
+ - Famous for its horrible treatments
+ - Patients were starved, beaten, & subject to brutal medical treatments
+ - The hospital was also completely open to the public, & patients were a spectacle to the citizens of London
+
+ Deinstitutionalization & Community Care (Mid-20th Century):
+  - Post-1950s:
+   - Push to move patients out of large institutions
+   - Driven by new psychiatric medications (e.g., antipsychotics)
+   - Civil rights advocacy & budget concerns
+   - Shift to community mental health centers
+   - Goal:    Provide local, outpatient care
+   - Problem: Often underfunded -> rise in homelessness & incarceration
+
+ Modern Treatments (1980s–Today):
+ - Greater emphasis on:
+   - Evidence-based practices
+   - Integration of psychotherapy + medication
+   - Use of insurance & teletherapy
+   - Growing awareness of:
+     - Cultural competence
+     - Mental health equity & stigma reduction
+   - Challenges: Access & equity
+** Types of Mental Health Providers
+- Clinical Psychologists (Ph.D. or Psy.D.)
+- Doctoral-level training in assessment, diagnosis, & therapy
+- Ph.D. = research + clinical focus
+- Psy.D. = primarily clinical focus
+^ Cannot prescribe medication (except in a few U.S. states with extra training)
+
+Psychiatrists (M.D. or D.O.):
+- Medical doctors who specialize in mental healthCan diagnose & prescribe medications
+- Often treat more severe disorders (e.g., schizophrenia, bipolar disorder)
+^ May provide brief therapy, but typically focus on medication management
+
+Licensed Clinical Social Workers (LCSWs):
+- Master’s degree in social work (MSW) + licensure
+- Trained in therapy, case management, & advocacy
+- Often work in community settings, hospitals, or private practice
+
+Counselors & Marriage/Family Therapists (LMFTs, LPCs):
+- Master’s-level clinicians
+- Focus on individual, group, or family therapy
+- Help with stress, relationships, anxiety, life transitions
+^ Licensed by state boards
+** Psychotherapy Approaches
+Key Idea: There is no one-size-fits-all method; good therapy meets the client where they are
+
+
+Major Therapy Approaches:
+- Psychoanalytic / Psychodynamic
+- Behavioral
+- Cognitive
+- Humanistic
+
+Major Therapy Approaches:
+- Psychoanalytic / Psychodynamic
+- Focus on unconscious conflict, early childhood experiences
+- Rooted in Freud’s theories
+
+Major Therapy Approaches:
+- Behavioral
+- Focus on learned behaviors
+- Uses conditioning to shape behavior (e.g., exposure therapy)
+
+Major Therapy Approaches:
+- Cognitive
+- Focus on thought patterns
+- Teaches clients to challenge & reframe distorted thinking
+
+Major Therapy Approaches:
+- Humanistic
+- Emphasizes personal growth & self-actualization
+- Client-centered approach with empathy & unconditional positive regard
+
+Eclectic / Integrative Therapy:
+- Many modern therapists use a blend of approaches
+- Tailored to client needs
+- Evidence-based combinations (e.g., CBT with mindfulness)
+- Flexibility allows therapists to adapt to the person, not just the diagnosis
+** Psychoanalytic Therapy
+Sigmund Freud: Founder of Psychoanalysis | Emphasis on the Unconscious
+Key Idea: Psychoanalytic therapy helps people gain insight into deep-rooted conflictsthat may
+          be influencing current thoughts, emotions, & behavior
+
+- Believed that psychological issues often stem from unconscious conflicts
+- Emphasized childhood experiences, especially those involving parents
+- Goal of therapy: bring unconscious material into conscious awareness to gain insight & relieve distress
+
+Key Techniques:
+
+Free Association:
+- Clients speak freely without filtering thoughts
+- Idea: Inconscious thoughts & conflicts will emerge in speech
+
+Dream Analysis:
+- Dreams are viewed as the “royal road to the unconscious”
+- Therapists interpret manifest content (what’s remembered) & latent content (hidden meaning)
+
+Transference:
+- Clients project feelings about significant others (e.g., parents) onto the therapist
+- Allows exploration of unresolved interpersonal conflicts
+
+Therapy explores:
+- Repressed memories & desires
+- Defense mechanisms (e.g., repression, denial)
+- Patterns rooted in early relationships
+
+Modern psychodynamic therapy is shorter & more focused than traditional psychoanalysis
+** Behavioral Therapy
+Key Idea: Changing behaviors through the principles of learning
+Key Point: Behavioral therapy treats symptoms by modifying the behavior itself,
+           rather than digging into its emotional or unconscious origins
+
+Rooted in Behaviorism:
+- Developed from work by Pavlov, Watson, & Skinner
+- Focus is not on internal thoughts or emotions but on observable behavior
+- Assumes behavior is learned & can be unlearned or reconditioned
+
+Consists of:
+- Classical Conditioning Techniques
+- Operant Conditioning Techniques
+
+Key Techniques:
+- Classical Conditioning Techniques:
+  - Systematic Desensitization:
+    - Gradual exposure to feared stimulus paired with relaxation
+  - Exposure Therapy:
+    - Directly confronting fears to reduce anxiety
+  - Aversion Therapy:
+    - Pairing unwanted behavior with unpleasant stimulus
+*** Cognitive & Cognitive-Behavioral Therapy
+Key Idea: By changing distorted thinking, clients can experience more positive emotions & make healthier behavioral choices.
+
+Core Principle:
+- Our thoughts influence our emotions & behaviors
+- Distorted or unhelpful thinking leads to psychological distress
+- CBT helps people recognize & challenge maladaptive thoughts to develop healthier patterns
+
+Main Goals:
+- Identify automatic negative thoughts (e.g., "I'm a failure")
+- Evaluate the evidence for & against those thoughts
+- Reframe thinking into more balanced & realistic perspectives
+  Example: “I made a mistake” instead of “I always mess up”
+
+How It Works:
+- Structured, goal-oriented, & time-limited (typically 6–20 sessions)
+- Homework is often assigned (e.g., journaling, behavioral experiments)
+- Emphasizes skill-building for coping, problem-solving, & emotion regulation
+
+Evidence-Based Practice:
+- One of the most researched & effective therapies
+- Proven success in treating:
+  - Depression
+  - Anxiety disorders
+  - PTSD
+  - OCD
+  - Substance use*
+- Adaptable for children, adolescents, adults, & various cultural groups
+- *CBT is the best available treatment for vaping in minors, meds don’t help
+** Humanistic Therapy
+Key Concept for this therapy to work: When people feel heard, valued, & understood, they’re more likely to grow & reach their full potential.
+
+Core Philosophy:
+- People are inherently good & have a natural drive toward self-actualization
+- Psychological distress results from blocked personal growth or unmet emotional needs
+
+Carl Rogers & Client-Centered Therapy:
+- Developed by Carl Rogersin the 1950s
+- Also called person-centered therapy
+- Client leads the conversation; therapist is a non-directive & supportive presence
+  - Goal: help clients explore & understand their true selves
+
+Core Conditions for Growth:
+To foster self-acceptance & change, therapists must provide:
+- Unconditional Positive Regard -> Accepting the client without judgment, no matter what they share
+- Empathy -> Deep understanding of the client’s emotions & perspective
+- Genuineness (Congruence) -> Therapist is authentic & transparent in the relationship
+
+Focus:
+- Promotes self-awareness, personal insight, empowerment
+- Emphasis on present moment experience over past traumas
+** Biomedical Treatments
+Key Insight: Biological treatments can relieve symptoms, but BEST outcomes often come from
+             combining medical & psychological approaches
+
+Medication:
+Restoring Chemical Balance
+1. Antidepressants
+- Antipsychotics
+- Mood Stabilizers
+- Anxiolytics (Anti-Anxiety Medications)
+2. Antipsychotics
+- Treat schizophrenia, bipolar disorder
+- First-generation: reduce dopamine
+- Second-generation (atypical): affect dopamine + serotonin
+3. Mood Stabilizers
+- Treat bipolar disorder (especially manic episodes)
+- Example: Lithium, some anticonvulsants
+4. Anxiolytics (Anti-Anxiety Medications)
+- Short-term relief for acute anxiety or panic
+- Examples: Benzodiazepines (e.g., Xanax) — fast-acting but risk dependence
+- Also includes buspirone, beta-blockers
+
+Other Biological Treatments:
+1.Electroconvulsive Therapy (ECT)
+2.Transcranial Magnetic Stimulation (TMS)
+3.Deep Brain Stimulation (DBS)
+
+Other Biological Treatments:
+1.Electroconvulsive Therapy (ECT)
+- Used for severe, treatment-resistant depression
+- Brief electrical stimulation under anesthesia
+- Can be very effective but may cause memory loss
+2. Transcranial Magnetic Stimulation (TMS)
+- Non-invasive magnetic pulses to stimulate brain regions
+- Treats depression with fewer side effects than ECT
+3. Deep Brain Stimulation (DBS)
+- Surgical implantation of electrodes in the brain
+- Experimental for OCD, depression, Parkinson’s
+
+Combination Treatments:
+Medication + Psychotherapy = Most effective for many disorders (e.g., CBT + antidepressants for major depression)
+** Evaluating Therapy Effectiveness
+Most Therapies Work — But Not Equally for Everyone
+Bottom Line: Therapy works best when it’s personalized, culturally aware, & backed by science
+
+Major finding:
+- Most evidence-based therapies are effective for many people.
+- People in therapy generally improve more than 80% of those who don’t get treatment (meta-analysis data)
+- No single therapy is best for every person or every problem.
+
+Key Factors That Influence Success:
+- Therapist–Client Relationship
+- Cultural Fit & Sensitivity
+- Severity & Type of Disorder
+
+Therapist–Client Relationship:
+- Strong rapport & trust -> better outcomes
+- Sometimes called the therapeutic alliance
+2. Cultural Fit & Sensitivity
+   - Therapy is more effective when it respects the client's cultural values, language, identity, & worldview
+   - Cultural mismatch can reduce trust or lead to miscommunication
+3. Severity & Type of Disorder:
+   - Some disorders (e.g., mild depression, anxiety) respond quickly
+*** Treatment Settings
+Key Point: The setting & structure of treatment are chosen based on severity, goals, & client needs—there is no one-size-fits-all approach
+
+Inpatient vs. Outpatient Care:
+- Inpatient:
+  - Client stays at a hospital or residential facility
+  - Used for severe mental illness, suicidal risk, or crisis stabilization
+  - 24/7 supervision & multidisciplinary team care
+- Outpatient:
+  - Client lives at home & attends scheduled therapy sessions
+  - Most common setting for mild to moderate mental health concerns
+  - Can include individual, group, or family therapy, & medication management
+
+Individual vs. Group Therapy:
+- Individual:
+  - One-on-one with a therapist
+  - Personalized, flexible, & private
+  - Useful for building trust & tailored treatment
+- Group:
+  - Led by a therapist, includes multiple clients
+  - Offers peer support, shared experiences, & social learning
+  - Cost-effective & especially helpful for addiction, grief, social anxiety
+
+Family & Couples Therapy:
+- Family:
+  - Focus on improving family communication, resolving conflicts, & supporting a family member with mental illness
+  - Often used for issues like childhood disorders, substance use, or family trauma
+- Couples:
+  - Helps partners improve communication, conflict resolution, & emotional connection
+  - May address infidelity, parenting issues, or mental health stressors
+*** 3 Part Effective Treatment Model
+- Clinical Expertise:          Therapist’s training, skill, & judgment
+- Client Preferences & Values: Cultural background, goals, & input matter
+- Best Available Research:     Up-to-date, peer-reviewed evidence guides treatment choices
+** Barriers to Treatment
+Financial Barriers:
+- High cost of therapy, medication, & insurance copays
+- Many providers don’t accept insurance or offer sliding-scale fees
+- Underinsured or uninsured individuals often go without care
+
+Cultural & Language Barriers:
+- Lack of providers who understand cultural values & traditions
+- Language differences & limited bilingual therapists
+- Misunderstandings about mental health concepts in some communities
+- Mental health symptoms may be expressed differently across cultures
+
+Stigma-Related Barriers:
+- Social-Stigma:
+  - Fear of being labeled “crazy” or weak
+- Self-Stigma:
+  - Internalized shame or guilt about seeking help
+  - Cultural/religious beliefs that frame mental illness as a moral failing or spiritual issue
+
+Systemic Access Barriers:
+- Long wait times for public services
+- Shortage of mental health professionals, especially in rural areas
+- Complicated healthcare systems that are hard to navigate
+- Limited availability of diverse or specialized providers
+
+Importance of Culturally Sensitive Therapy:
+- Therapists must be trained in cultural humilityand responsive care
+- Respect for the client’s identity, background, & values
+- Builds trust & engagement, improving treatment outcomes
+
+Addressing treatment barriers requires a combination of:
+- Policy change
+- Education
+- Inclusive mental health practices
+** Culturally Competent Care
+Understanding the Client’s Background:
+- Therapists must learn about the client’s cultural identity, including:
+  - Ethnicity, race, religion, gender identity, sexual orientation
+  - Life experiences, immigration history, & community context
+- Recognizing how culture shapes views on mental health, help-seeking, & healing
+
+Values & Worldview:
+- Some cultures emphasize collectivism (family/community over self), others individualism
+- Respect for elders, spiritual practices, or traditional healing may influence care
+- Avoiding assumptions; asking open-ended questions to understand the client’s perspective
+
+Language & Communication:
+- Providing services in the client’s preferred language
+- Using interpreters trained in mental health contexts
+- Understanding nonverbal cues may differ across cultures
+
+Traditions & Community Resources:
+- Integrating culturally appropriate supports, such as:
+  - Faith-based leaders or ceremonies
+  - Community elders or traditional healers
+  - Culturally relevant group supportor peer networks
+*** G.B.R.I
+- Goal:    Goal of Culturally Competent Care
+- Build:   Build trust & rapport
+- Reduce:  Reduce dropout rates & misdiagnosis
+- Improve: Treatment engagement & effectiveness
+* Top 10 Psychology Experiments You Should Know About
+** Pavlov’s Classical Conditioning (1890s)
+*** Dogs, Bells, & Salivation
+Ivan Pavlov, a Russian physiologist, was originally studying digestive processesin dogs.
+
+- Noticed dogs salivated not just when food was presented, but also when they heard footsteps or saw lab assistants
+- Designed experiments pairing a neutral stimulus (bell) with fooduntil the bell alone triggered salivation
+
+- Unconditioned Stimulus (UCS): Food - Naturally produces a response
+- Unconditioned Response (UCR): Salivation to food - automatic, not learned
+- Conditioned Stimulus (CS):    Bell — initially neutral, becomes associated with food
+- Conditioned Response (CR):    Salivation to bell —learned response.
+
+Why it matters:
+- Demonstrated that learning can occur through association between stimuli
+- Laid groundwork for behaviorism, influencing later researchers like Watson & Skinner
+
+Applications:
+- Therapy:     Systematic desensitization for phobias
+- Advertising: Pairing products with positive stimuli
+- Education:   Classroom cues for behavior management
+** Watson & Rayner – Little Albert (1920)
+*** Conditioning Fear in an Infant
+John B. Watson & Rosalie Rayner wanted to test if emotional responses could be classically conditioned
+
+Subject: “Little Albert,” ~9-month-old infant
+
+Procedure:
+- Showed Albert a white rat (neutral stimulus)        — No fear response
+- Paired the rat with a loud, frightening noise (UCS) — Caused crying (UCR)
+- After repeated pairings, Albert cried at the sight of the rat alone (CR)
+- Fear generalized to similar objects: White rabbit, fur coat, even Santa Claus beard.
+*** Ethical Issues
+- No informed consent from the child’s mother (as defined by modern standards)
+- Deliberately induced distress in an infant
+- No attempt to decondition the fear before ending the study
+- Sparked later debates that led to stricter APA ethical guidelines
+*** Modern Understanding
+- Demonstrated that phobias can be learned through classical conditioning
+- Supports the use of exposure therapy & systematic desensitization to unlearn fears
+- Modern research uses ethical simulations or observational methods instead of causing distress
+** Skinner’s Operant Conditioning (1930s–1950s)
+*** Rats, Pigeons, Reinforcement, Punishment
+- B.F. Skinner built on Thorndike’s Law of Effect, studying how consequences shape behavior
+- Used the Skinner Box—controlled environment with levers (rats) or pecking disks (pigeons)
+
+Reinforcement increases behavior:
+- Positive punishment–adding something unpleasant (shock)
+- Negative punishment–removing something pleasant (withholding food)
+**** Schedules of Reinforcement
+- Fixed Ratio (FR):       Reward after set number of responses (e.g., FR5 → every 5 presses)
+- Variable Ratio (VR):    Reward after unpredictable number of responses — produces highest response rate (e.g., slot machines)
+- Fixed Interval (FI):    Reward after set time period (e.g., every 2 minutes)
+- Variable Interval (VI): Reward after varying time intervals (e.g., checking email).
+
+Applications:
+- Education:        Token economies
+- Behavior Therapy: Reinforcemnt plans for habit change
+- Animal Training:  Step-by-step
+** Bandura’s Bobo Doll (1961)
+*** Social Learning Theory: Modeling Aggression
+Albert Bandura tested whether children learn behaviors by observing & imitating others
+
+Method:
+- Preschool children watched an adult model behave aggressively toward an inflatable Bobo doll (hitting, kicking, yelling)
+- Control group saw non-aggressive behavior
+- Later, when given the chance to play, children who saw aggression were more likely to act aggressively themselves
+
+**** Media Influences on Behavior
+- Findings showed observational learning can occur without direct reinforcement
+- Suggested that exposure to violence in media could influence children’s behavior patterns
+**** Relevance Today
+- Applied to debates about violent video games, social media trends, & influencer behavior
+- Current research also looks at prosocial modeling — how observing kindness & cooperation can encourage positive actions
+** Asch’s Conformity Experiment (1951)
+*** Judgment Task & Group Pressure
+Solomon Asch investigated whether people would conform to a group’s obviously incorrect judgment
+
+Method:
+- Participants sat with a group (confederates of the researcher)
+- Asked to match the length of a line to three comparison lines
+- Confederates intentionally gave wrong answers on certain trials
+^ Results: ~75% of participants conformed at least once, even when the answer was clearly wrong
+*** Factors Influencing Conformity
+- Group size (3–5 confederates increases conformity)
+- Unanimity (one dissenter dramatically reduces conformity)
+- Confidence & task difficulty (harder tasks increase conformity)
+- Personality & self-esteem levels
+*** Cultural & Situational Considerations
+- Collectivist cultures tend to show higher conformity rates than individualist cultures
+- Situational pressures (desire to be liked, avoid conflict) play a big role
+** Milgram Obedience Experiment (1963)
+Key Setup:
+- Participants assigned role of “Teacher”; confederate always played “Learner.”
+- Task: “Teacher” reads word pairs; if “Learner” answers incorrectly, they deliver electric shocks of increasing intensity (15–450 volts)
+- “Learner” (actor) never actually shocked—cries of pain were pre-recorded
+- Authority figure (experimenter in lab coat) urged: “Please continue,” “The experiment requires that you continue.”
+
+Surprising Results:
+- 65%of participants delivered the maximum 450 volts despite apparent distress
+- Many showed visible stress—sweating, trembling, nervous laughter — but continued under authority pressure
+
+Ethical Controversy:
+- Participants deceived about shocks & purpose of study
+- Emotional distress during experiment
+- Sparked debate over informed consentand participant protection
+
+Safeguards Today:
+- Institutional Review Boards (IRBs)
+- Informed consent with right to withdraw at any time
+- Debriefing to explain true purpose & ensure well-being
+
+Applications:
+- Explains how ordinary people can commit harmful acts under authority
+- Links to real-world atrocities (e.g., war crimes, corporate scandals)
+- Relevant to workplace hierarchy, law enforcement, & military ethics
+** Zimbardo’s Stanford Prison Experiment (1971)
+- Conducted by Philip Zimbardoat Stanford University
+- Aimed to explore how social roles, authority, & situational forcesinfluence behavior
+- Simulated prison in Stanford’s basement; volunteers randomly assigned to guardor prisonerroles.
+
+Key Findings:
+- Guards quickly became authoritarian, some engaging in psychological abuse
+- Prisoners exhibited emotional distress, depression, & passive submission
+- The situation escalated far faster & more severelythan anticipated
+
+Early Termination:
+- Planned for 2 weeks but stopped after only 6 daysdue to extreme behavior & harm to participants
+- Zimbardo’s girlfriend, Christina Maslach, confronted him about the ethical issues, prompting the shutdown
+*** Stanford Prison Experiment Timeline (Zimbardo, 1971)
+**Day 0 - Setup**
+- 24 male college students selected, randomly assigned to guardsor prisoners
+- Basement of Stanford’s psychology building converted into mock prison
+
+**Day 1 –Arrival & Role Adoption**
+- Prisoners “arrested” at home; taken to mock prison
+- Guards begin enforcing rules; first signs of role acceptance appear
+
+**Day 2 –Early Tension**
+- Guards start psychological tactics: intimidation, arbitrary punishments
+- Prisoners show signs of stress & anxiety
+
+**Day 3 – Escalation**
+- Several prisoners have severe emotional reactions (crying, rage, withdrawal)
+- Guards become more aggressive; power imbalance fully evident
+
+**Day 5 – Zimbardo Steps In**
+- Originally planned for 2 weeks, stopped after 6 daysdue to escalating harm
+- Demonstrated how quickly ordinary people can adopt abusive rolesunder situational pressures
+
+**Day 6 – Experiment Terminated**
+- Originally planned for 2 weeks, stopped after 6 daysdue to escalating harm
+- Demonstrated how quickly ordinary people can adopt abusive rolesunder situational pressures
+**** Lessons Learned
+- Demonstrated deindividuation: Loss of self-awareness & moral restraint in a group or role
+- Showed how systemic power dynamicscan lead to abuse, even among “ordinary” people
+- Suggested that situations, not just personalities, can strongly shape actions
+**** Ethical Impact
+Raised major concerns about participant welfare, informed consent, & lack of oversight
+
+Contributed to modern ethics reformsin psychological research:
+- Institutional Review Boards (IRBs)
+- Strict informed consent requirements
+- Right to withdraw without penalty
+- Continuous monitoring of participant well-being
+** Loftus & Palmer – Eyewitness Memory (1974)
+- Elizabeth Loftus & John Palmer were interested in how memory can be alteredafter an event
+- Eyewitness testimony is often treated as reliable in court, but research suggested that post-event information might distort recall
+
+Method & Key Findings:
+- Participants watched a video of a car accident
+- Later, they were asked questions about what they saw—critical question
+  “About how fast were the cars going when they ___ each other?”
+
+- The verb varied: smashed, collided, bumped, hit, contacted
+- Results: Stronger verbs like smashed produced higher speed estimatesand more false reports of seeing broken glass (even when there was none)
+*** Core Concept – The Misinformation Effect
+- Memory is reconstructive, not like a video replay
+- Wording of a questioncan introduce new information, which gets integrated into a person’s memory
+*** Implications for the Legal System
+- Eyewitness testimony can be unintentionally shapedby police questioning, media coverage, or lawyers
+- Mistaken identifications & false memories contribute to wrongful convictions
+*** Modern Replications & Debates
+- Replicated many times with various events (e.g., thefts, accidents)
+- Ongoing debate: How far can false memories go? Can entire fabricated eventsbe implanted?
+- Led to reforms in police interview techniques (e.g., cognitive interviewing).
+*** Key Takeaways
+- Our memories are malleableand shaped by language, suggestion, & post-event information
+- Critical thinking & methodological safeguardsare essential in legal settings
+** Harlow’s Monkey Love Experiment (1950s–60s)
+Core Question:
+- What matters more in attachment - the physical need for food or the emotional need for comfort?
+
+Method:
+- Harry Harlow separated infant rhesus monkeys from their mothers shortly after birth
+- The monkeys were placed in cages with two surrogate “mothers”:
+  - Wire mother:  Made of bare wire, provided milk from a bottle
+  - Cloth mother: Covered in soft terry cloth, provided no milk
+- Observed which “mother” the infant monkeys preferred & how they behaved in frightening situations.
+*** Harlow's Monkeys
+Key Findings:
+- Monkeys clung to the cloth mother for most of the day, even though it didn’t provide food
+- When frightened, they ran to the cloth mother for security before exploring again
+- Physical comfort & security were more important for attachment than nourishment alone
+
+Impact on Theory:
+- Strongly influenced John Bowlby’s & Mary Ainsworth’s attachment theory
+- Demonstrated that emotional bonds are rooted in comfort, warmth, & security — not just biological survival needs
+
+Applications:
+- Shaped modern child welfare policies, discouraging institutional care without emotional nurturing
+- Informed social work, foster care, & adoption practices, emphasizing the importance of consistent caregivers
+
+Ethical Considerations:
+- The monkeys suffered lasting emotional & social damage, raising concerns about the harm caused by animal research
+- Today, stricter ethical guidelines for animal research would likely prevent such experiments
+*** Testing
+Overview:
+- Setup: Participants completed a deliberately boring task (turning wooden pegs)
+- Afterward, they were asked to tell the next participant the task was interesting
+- Paid either $1or $20 to do so
+
+Key Findings:
+- Those paid $1 reported enjoying the task more than those paid $20
+- Why? Cognitive Dissonance Theory — holding two conflicting cognitions (“I lied” vs. “I’m an honest person”) creates discomfort
+- With only $1, participants couldn’t justify the lie externally, so they changed their internal attitudeto believe the task was more enjoyable
+
+Core Concepts:
+- Justification of Effort: When rewards are small, people often convince themselves their actions were worthwhile
+- Attitude Change:         Internal beliefs shift to align with behavior to reduce dissonance
+
+Applications:
+- Marketing & Advertising: Small incentives can foster stronger belief change than large ones
+- Persuasion:              Commitment without large reward can produce long-lasting attitude change
+- Self-Concept:            People seek internal consistency, sometimes bending beliefs to match past choices
+** Ethical Evolution in Research
+Background:
+- Early psychology studies (e.g., Milgram, Zimbardo, Harlow) revealed major gaps in ethical protections
+- Public & professional concern over participant welfare led to formalized safeguards.
+
+APA Code of Ethics:
+- Established by the American Psychological Association to guide professional conduct
+  - Core principles:
+    - Beneficence & Nonmaleficence – Maximize benefits, minimize harm
+    - Fidelity & Responsibility – Maintain trust & uphold responsibilities to society
+    - Integrity – Be honest, accurate, & truthful
+    - Justice – Ensure equitable access to research benefits
+- Respect for People’s Rights & Dignity–Safeguard privacy, confidentiality, & autonomy
+
+Institutional Review Boards (IRBs):
+- Independent committees reviewing research proposals involving humans
+- Ensure studies meet ethical standards before approval
+- Assess risk vs. benefit, recruitment fairness, & participant protection
+
+Key Safeguards Today:
+- Informed Consent: Participants receive complete info about purpose, procedures, risks, benefits, & right to withdraw
+- Debriefing:       Especially important if deception is used; clarify the study’s purpose, restore trust, & address any misconceptions
+- Minimal Harm:     No greater risk than participants would encounter in daily life; extra care for vulnerable populations
+
+Why It Matters:
+- Protects participants from exploitation or trauma
+- Preserves public trust in psychological research
+- Ensures research results are ethically defensible & socially responsible
+*** Examples
+APA Code of Ethics:
+- A psychologist running a workplace stress study follows APA guidelines by ensuring participants’ responses remain
+  confidential & reporting results honestly without fabricating data
+- A clinical trial on new depression treatments ensures that participants understand their right to withdraw at any time without penalty
+
+Institutional Review Boards (IRBs):
+- A university researcher submits their plan for a sleep deprivation study to the IRB, which requires adjustments to limit potential health risks
+- A nonprofit proposing a survey on trauma survivors has to receive IRB approval to ensure the questions don’t cause undue psychological harm
+
+Informed Consent:
+- Before joining a mindfulness app effectiveness study, participants receive a clear document explaining what data will be collected,
+  how it will be used, & any possible side effects.
+- In a memory experiment, participants are told the tasks may involve mildly stressful
+  timed tests so they can make an informed decision to participate
+
+Debriefing:
+- After a staged “lost wallet” experiment, researchers explain to participants that the event was set up to measure prosocial behavior
+  & reassure them that no one was in distress.
+- In a study involving misleading instructions, participants are told the true purpose afterward & given resources to discuss any discomfort they felt
+
+Minimal Harm:
+- A virtual reality fear experiment uses realistic but safe spider simulations rather than actual spiders for participants with arachnophobia
+- A study on caffeine effects ensures participants are screened for heart conditions & caffeine sensitivity to avoid adverse reactions

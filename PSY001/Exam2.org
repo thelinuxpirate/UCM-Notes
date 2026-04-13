@@ -1862,27 +1862,27 @@ Early Termination:
 - Planned for 2 weeks but stopped after only 6 daysdue to extreme behavior & harm to participants
 - Zimbardo’s girlfriend, Christina Maslach, confronted him about the ethical issues, prompting the shutdown
 *** Stanford Prison Experiment Timeline (Zimbardo, 1971)
-**Day 0 - Setup**
+*Day 0 - Setup*
 - 24 male college students selected, randomly assigned to guardsor prisoners
 - Basement of Stanford’s psychology building converted into mock prison
 
-**Day 1 –Arrival & Role Adoption**
+*Day 1 –Arrival & Role Adoption*
 - Prisoners “arrested” at home; taken to mock prison
 - Guards begin enforcing rules; first signs of role acceptance appear
 
-**Day 2 –Early Tension**
+*Day 2 –Early Tension*
 - Guards start psychological tactics: intimidation, arbitrary punishments
 - Prisoners show signs of stress & anxiety
 
-**Day 3 – Escalation**
+*Day 3 – Escalation*
 - Several prisoners have severe emotional reactions (crying, rage, withdrawal)
 - Guards become more aggressive; power imbalance fully evident
 
-**Day 5 – Zimbardo Steps In**
+*Day 5 – Zimbardo Steps In*
 - Originally planned for 2 weeks, stopped after 6 daysdue to escalating harm
 - Demonstrated how quickly ordinary people can adopt abusive rolesunder situational pressures
 
-**Day 6 – Experiment Terminated**
+*Day 6 – Experiment Terminated*
 - Originally planned for 2 weeks, stopped after 6 daysdue to escalating harm
 - Demonstrated how quickly ordinary people can adopt abusive rolesunder situational pressures
 **** Lessons Learned

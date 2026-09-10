@@ -1,0 +1,116 @@
+#+title: Calc1 Intro: Functions
+* Lecture 1
+Functions = rule that connects inputs & outputs
+
+Formula:
+f(x) = 2x+3
+
+Outputs of functions are predictible
+Functions as models come with inputs & outputs that come with a meaning
+
+** Activity:
+3 Examples of valid functions | Inputs & Outputs
+
+*Input | Output*
+- Solar Panels
+Amount to charge () | Energy Left ()
+
+- Driving (Car)
+Distance driven (gas) | Time Taken (mph)
+
+- Flying (Plane)
+Altitude () | Fuel needed ()
+
+- Walking
+  Distance Walked () | Time Taken
+* Lecture 2
+- Linear
+- Polynomial
+- Exponential
+- Logartithmic
+- Trigonometric
+- Rational: Polynomial Func/Polynomial Func
+- Piecewise: Not defined by any of the above
+** Linear
+EX: Function is converting temperatures from Celsius to Farhenheit
+
+Conversion formula
+#+begin_src
+              C
+y = f(x) = 9/5x + 32
+F   F        F
+#+end_src
+
+x = Celsius temperature & y is Farhenheit
+
+Linear functions are easiest because they are consistent
+
+Whenever x = same (10 eg 20) will add the same amount
+x = C | Slope stays same
+** Exponentional
+Functions are used to model many phenomena like:
+
+- Bacteria growth
+- Compound Interest
+- Radioactive Decay
+
+  In Calc we use the 'natural exponential' = 'base e'
+** Activity
+Practical Examples of Linear & not linear functions
+
+*Linear*
+Airplane
+- Altitude (height) & Time (hrs)
+*Non-Linear*
+Population Growth
+- ??
+** Trigonometric
+Functions used in surveys & optics & radio waves, hours of daylight
+
+Cuclical Patterns are used in Trig
+** Activity 2
+Graph Activity - On Paper
+
+* Lecture 3
+- Sign
+- Slope
+
+** Functions
+Signs = Can include positive/negative/zero
+
+Linear Function: y = f(x) = mx + b
+
+m = slope
+
+m = slope = rise/run = y2-y1/x2-x1
+* Lecture 4
+** Discontinuous Functions
+- Asymptotes
+- Jumps
+- Point/Removable
+*** Asymptotes
+y = 1/x^2 is an example of an asymptote; V.A & H.A dont touch each other
+*** Heaviside Function
+#+begin_src
+H(t) = { 0, t <  0
+       { 1, t >= 0
+#+end_src
+One point continues then ends to another like a signal
+*** Jumps discontinuities
+Jump discontinuities jump between 1 value to another (e.g like rounding)
+
+* Lecture 5
+** Limits
+How to write a Right-Hand Limit
+#+begin_src
+lim f(x) = L
+x->a+
+#+end_src
+
+How to write a Left-Hand Limit
+#+begin_src
+lim f(x) = L
+x->a-
+#+end_src
+* ?
+lmao I just gave up on writing notes this semester & just rawdogged the class

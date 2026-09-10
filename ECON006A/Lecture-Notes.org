@@ -1,0 +1,123 @@
+#+title:
+* Chapter 1: Accounting in Business
+** Accounting
+A system | called language of business
+Use Case:
+Provides useful information for decisions
+  - Identify            | Transactions & Events
+  - Record Transactions | Input Measure Log
+  - Communicate         | Prepare, analyze, & interpret
+- GAP - Rulebook (Generally Accepted Accounting Principles)
+
+*** Useful Information
+Want to achieve:
+- Relevant Information   -> Affects the decision of its users
+- Reliable Information   -> Trusted by users
+- Comparable Information -> Is helful in contrasting organizations
+
+*** Accounting Groups
+- External | Outside of the business, provides external users with financial statements
+  - Lenders
+  - Shareholders
+  - Governments
+  - Consumer Groups
+  - External Auditors
+  - Customers
+
+- Internal | Inside the business, need accounting info for their jobs
+  - Officers
+  - Managers
+  - Internal Auditors
+  - Budget Officers
+  - Controllers
+*** Ethics
+Ethics = Beliefs that distinguish right from wrong
+
+- Identify Ethical Concerns
+- Analyze Options
+- Make Ethical Decision
+*** Who makes Accounting rules
+- FASB - Financial Accounting Sandards Board, private group that sets all principles
+- SEC  - Securities and Exchange Commission, reporting requirements for companies that issue stock to the public
+- IASB - International Accounting Standards Board, issues Intrnational Financial Reporting Standards (IFRS)
+  identifies preferred accounting practices to create harmony across the accounting rules from other countries
+
+There is an international set of rules but the U.S doesn't follow it, it follows GAP
+*** Fraud Triangle
+- Opportunity | Left
+-
+*** Constraints
+- Materiality  = Only information that would influence the decisions of a reasonable person need to be disclosed
+- Cost-Benefit = Only information with benefits of disclosure greater than their cost need be disclosed
+
+** Accounting Assumptions & Principles
+*** Assumptions
+- Going-Concern Assumption = Assumtion that business will continye instad of being closed or sold
+- Monetary Unit Assumption = Express transactions in monetary, or money, units
+- Business Entity          = A business is accounted for seperatly from other business entities, including its owner
+- Time Period Assumption   = Presumes that the life of a company can be divided into time periods, e.g months & years
+*** Principles
+- Revenue Recognition Principle
+  - Recognize revenue when it is earned
+  - Proceeds need not be in cash
+  - Measure revenue by cash recived plus cash value of items recived
+Golden Rule: When the company provides goods or services record revenue, not just when you get paid
+
+- Cost Principle            = Accounting information is based on actual cost, actual cost is considered objective
+- Matching Principle        = A company must record its expenses incurred to generate the revenue recorded
+- Full Disclosure Principle = A company is required to report the details behind financial statements that would impcat users' decisions
+
+** Types of Businesses & Activites
+*** Product Companies
+- Manufactors/Producers
+- Distributor/Wholesaler - buy from manufacturers & sell to retailers
+- Retailers
+*** Service Companies
+Provide services to consumers insead of a tangible product
+*** Financing Activites
+- Rasing money to finance business, can borrow or get investments by owners
+*** Investing Activites
+- With money raised in financing activities, company buys assets to run business
+*** Operating Activites
+- Carrying on the day-to-day operations in order to earn a profit
+** Busintess Entities
+- Sole Propietorship | 1 Owner
+- Partnership        | More than 1 owner
+- Corporation        | Corporation is a legal being, seperate from the owner
+  Owners of a corporation are called shareholders. Shareholders aren't personally liable
+  for corporate acts. Corporation issues only 1 class of stock = common stock/capital stock
+** Sarbanes-Oxley (SOX)
+Congress passed SOX act to help curb financial abuses at companies that issue their stock to the public
+- Management must issue a report stating that its internal controls are effective, auditors must verify this
+** Transaction Analysis & The Accounting Equation
+The accounting equation:
+- Assets = Liabilities + Equity
+^ Will always be true
+
+Expanded Equation
+                                                            [   Net Income    ] AKA Profit
+Assets = Liabilites + Owner, Capital - Owner, Withdrawls + Revenues - Expenses
+                       [                      Equity                          ]
+*** Accounts
+- An Account = Individual asset, liability, equity, revenue, or expense item that a company wants
+seperatly identified on its financial records
+**** Types
+- Assets = Resources owned or controlled by a company | Buildings, Land, Equipment/Supplies (intent to use),
+  Accounts(sale from customer, verbal agreement, short-term, no interest)/Notes(loan to customer, written agreement, long-term, interest) Receivable,
+  Vehicles, Inventory (intent to sell), Cash
+
+- Liabilites = Creditors' claims on company's assets
+  Accounts/Notes payable, Taxes payable, wages payable
+
+- Equity = Owner's claims on assets | Owner, Capital - Owner, Withdrawls + Revenues - Expenses
+
+- Revenues & Expenses = Subset of Equity | increases & decreases of Equity
+  AREN'T assets & liabilities, rather they measure the change of assets & liabilites change from operating activites;
+  - Revenues = A measure of the inflow of resources form the sale of goods &/or services
+  - Expenses = A measure of resources used up in the normal course of operations
+*** Transaction Analysis
+- The accounting equation MUST remain in balance after each transaction
+- At least two accounts are involved in every transaction
+- Always look at the transaction from the business' point of view (not owner/employee/customer etc)
+Golden Rule: When the company provides goods or services record revenue, not just when you get paid
+*Assets = Liabilities + Equity*

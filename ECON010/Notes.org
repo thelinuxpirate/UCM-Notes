@@ -1,0 +1,69 @@
+#+title: ECON010
+* Lecture 2
+- Model: Any formal statement that causally relates 2 or more variables
+  - Formal Statement = Contains direction & magnitude, graphable
+  - Causality = If, Then
+
+- Variable = Any phenomenon that be systematically measured
+  - Systematic = Measured consistenly overtime
+
+** Quantitative Data vs Qualitative Data
+- Quantitative
+  - Discrete   = Integers (no decimals)
+  - Continuous  = EX: Weight (int with decimals)
+
+- Qualitative  = Interview
+* Lecture 3 | Measurement, Modeling, & Error
+- Types of Measurements (Quantitative)
+  - Nominal  = Purely categorical | Countable
+  - Ordinal  = Numbers (scale) doesnt matter, zero is arbitrary, more vs. less matters, internally consistent
+  - Interval = Scale is consistent but zero is arbitrary | Externally consistent | EX: Tempature
+  - Ratio    = Scale is consistent but zero has meaning | more vs. less matters | Externally consistent
+               When we put 2 ratio vars into a ratio we gain access to new info
+** Model
+Example Model: *y = f(x, x2, x3, ... x)*
+- y = dependent var
+- func = independent
+- x1 = treatment var
+- control var = treatment(control var)
+- endogenous = inside
+- exogenous = outside
+
+- Yi = observed outcome for "i" (the unit of observation)
+- ŷ  = predicted outcome (comes from the model)
+
+EX:
+Yi - ŷ  = 0 | <- Correct Prediction
+
+Yi = ŷ
+
+Yi - ŷ = Error
+
+
+Goal = Minimize Error
+*** Purpose of a Model
+- Replicating a past result
+- Manipulate a future result
+*** Common Types (causes) of Error
+- Measurement Error | Any consistent rounding that occurs
+  -> How to minimize error = anonymize data collection
+- Sampling Error | When your sample is not consistent with population being studied
+  -> Online Polls example of sampling error
+* Lecture 4 | Error Types & Strategies to Mitigate Continued...
+** Error Solutions
+- Sampling Error Solution = Simple Random Sample (SRS) -> with replacement
+  (guarantees that everyone in population has equal likelihood of showing up in data)
+- Randomization Error | Anytime the treatment or control group are different in
+   any measurable way, before, during, or after the experiment in a way other
+   than the treatment
+  - Double Blind: Eliminates the placebo effect
+- Modeling Error / Perceptual Error
+  - Omitted Variables | Missing Variables that lead to a misinterpretaiton of data
+  - Reverse Causality = Inverse interpretation of a model
+  - Spurious Correlations = Correlations != causal relationship
+- ^How to solve all of this = Peer-Review
+- Random Error | Samll positive & negative variations that cant be eliminated from our variables
+  -> collect more data to solve
+- Cross-Section | Survey Questions, to a select group/population
+  - Same Questions, Different People
+- Panel/Lougitudinal Data = Same Questions, Same People

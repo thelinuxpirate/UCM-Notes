@@ -80,7 +80,7 @@ Provide services to consumers insead of a tangible product
 - With money raised in financing activities, company buys assets to run business
 *** Operating Activites
 - Carrying on the day-to-day operations in order to earn a profit
-** Busintess Entities
+** Business Entities
 - Sole Propietorship | 1 Owner
 - Partnership        | More than 1 owner
 - Corporation        | Corporation is a legal being, seperate from the owner
@@ -121,3 +121,81 @@ seperatly identified on its financial records
 - Always look at the transaction from the business' point of view (not owner/employee/customer etc)
 Golden Rule: When the company provides goods or services record revenue, not just when you get paid
 *Assets = Liabilities + Equity*
+** Financial Statements
+ - Income Statement | describes a company's revenues & expenses
+   along with the resulting net income or loss over a period of time
+   due to earnings activities
+   - Revenues
+   - Expenses
+ - Statement of Owner's Equity/Capital | Investments/Withdrawals from the owner
+   - Covered through a period of time & net income is required
+ - Balance Sheet | describes a company's financial position at a point in time
+   - Assets = Liabilities + Equity | Get the total for each, equity's total is measured via L + E
+(In Order^)
+
+- The total in a financial statement is shown by two lines under the total
+*** Financial Ratio
+Decision Analysis:
+- Return on assets (ROA) is stated in ratio form as income
+  divided by assets invested
+- Return on assets = Net Income/Average Total Assets
+- High ROA = Good :)
+* Chapter 2 | Analyzing & Recording Transacitons
+** Analyzing & Recording Process
+- Analyze each transaction & event from *source documents*
+  - Source Documents: Checks, Bills from Suppliers, Purchase Orders,
+    Employee Earnings Records, Bank Statements, Sales Tickets
+- Record relevant transactions & events in a *journal*
+- Post journal information to *ledger* accounts
+  - The General Ledger: Book keeping a record containg all of the accounts used by the company
+- Prepare & Analyze the trial balance
+** New Accounts
+*** Asset Accounts
+- Prepaid Accounts (Ex: Subscriptions, Insurance)
+*** Liability Accounts
+- Accrued Liabilites = Wages Payable, Rent Payable, Interest Payable
+- Unearned Revenue   = Customer paid in advance, labor owed
+** Owner's Captial Formula (Equity)
+- Owner's Investments - Owner's Withdrawals + Revenues - Expenses = Owner's Equity, ending balance
+** Debits & Credits
+- T-Account (Requires 2 Books) = represents a ledger account & is a tool used to understand the effects of one or more transactions
+
+  *Account Title:*
+  
+  (Left Side) Debit | (Right Side) Credit
+  
+- Double-Entry Accounting | An account balance is the difference between the increases & decrases in an account (Ex: T-Account)
+- Accounts normally have positive balances; Therefore, asset accounts
+  will normally have a net debit balance, liabilities will have a
+  net credit balance, etc.
+- T-Accounts are useful illustrations, but balance column ledger
+  accounts are used in practice
+*** Rules
+- Assets       = Debit + | Credit -
+- Liabilities  = Debit - | Credit +
+- Equity       = Debit - | Credit +
+- Normal Rules = Debit + | Credit +
+
+- At least 2 accounts are involved with every transaction (DOUBLE-entry accounting)
+- The total of all debited accounts MUST = the total of all creditied accounts for each transaction (debits = credits)
+- Accounting equation MUST balance after every transaction
+
+- Always record via business perspective
+- Transactions mentions pay = cash 
+- Transactions mentions "provides good/service" = record revenue
+- Resource used/partially used in the transaction = record expense
+  (and decrease asset or increase liability) 
+- After record journal entry, need to update each account's balance in the ledger
+  (Journal first, then ledger)
+** Journalizing & Posting Transactions
+- Analyze transactions & source documents
+- Apply double-entry accounting
+- Record journal entry
+- Post entry to ledger
+** Analyzing Transactions
+Via Double-Entry Accounting:
+- Identify the transaction & any source document
+- Analyze the trasaction using the accounting equation
+- Record the transaction in the journal entry form applying
+  double-entry accounting
+- Post the entry (T-Accounts to represent ledger accounts)

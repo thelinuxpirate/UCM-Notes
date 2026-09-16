@@ -67,3 +67,41 @@ Goal = Minimize Error
 - Cross-Section | Survey Questions, to a select group/population
   - Same Questions, Different People
 - Panel/Lougitudinal Data = Same Questions, Same People
+* Lecture 5
+- Statatistic | Single number that summarizes/describes a single variable
+  - Summary Statistics (Descriptive) | How grouped together the data is
+  - Mean (Average) | Expected value
+  - x̄ | Sample Mean
+  - (Mu) Mue Greek Letter | Population Mean
+#+begin_src
+n
+Σ Xi  /n
+i = 1
+
+^ All observations have an impact
+#+end_src
+- Median (50th Percentile) | Number that cuts the data in half (only 2 data points required)
+  - Mean vs Median:
+  - Rank the data (ascending vs descending)
+  - Find the middle (50% above, 50% below)
+#+begin_src
+Xmedian
+#+end_src
+- Mode(s) | Most commly occuring outcome
+  - Bi-Modal Data = 2 Modes
+- Mesures of Dispersion (Variability)
+  - Range | Xmax - Xmin | "Whats possible based upon observation" = proxy
+  - Standard Deviation | Expected variation
+  - Variance | Average squared deviation from the mean
+#+begin_src
+S^2 = Sample Variance
+σ^2 = Population Variance | (Sigma)^2
+
+                           n
+Deviation from the mean = (Σ[(Xi - x̄)^2])/n <- get rid of negatives
+                          i=1
+
+Average Deviation from x̄ = (s^2)^1/2 = Square Root of Variance
+#+end_src
+* Lecture 6
+- Shape Characteristics

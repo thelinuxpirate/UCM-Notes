@@ -25,3 +25,37 @@
 Input -> Set of Rules -> Output
 # Algorithm^
 #+end_src
+* Part 1: Collaboration
+** Working with Machines
+*** How artificial intelligence works
+- Single-Task AI | Algorithm at excution
+  - Can mimic human-like cognititve functions
+- Used for tasks & automation
+*** How Do Machines Learn?
+- Machines learn/trained via numbers
+- Takes features ("list of data") to build classification systems
+- Reapeats process multiple times & are correct upon mistakes
+*** Deep Learning  
+- Deep Learning = A type of machine learning where the algorithm
+  doesn’t need to be told about the important features
+  - Discovers features on its own by using a neural network
+*** Machine Learning Vs. Deep Learning
+- Deep Learning uses "labeled data", training, & decides on the most
+  relevant features
+  - Images used with Deep Learning = Computer Vision
+- Machine Learning given a script has data where options are prelevant
+  - In order for Machine learning to generate new rules, it had to be trained 
+  - ^Titled = Supervised Learning
+- Unsurpervised Learning = Algorithm automatically sorts through the data
+- Reinforcement Learning = ML Algorithm constantly corrected based on feedback
+*** Technology Stack
+- Technology Stack = all the hardware & software systems needed to develop & run a single application
+- Front End (Client Side) = User-interaction data sources & technologies
+- Back End (Server Side) = Underlying infrastructure that powers the client side
+- Middleware = Hidden translation layer, enables communication between database & data
+*** Treat AI Like a Machine
+Teaming with AI conditions:
+- AI Must be Transparent
+- AI must be reliable
+
+pg. 57

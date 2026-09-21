@@ -1,10 +1,10 @@
 #+title: HIST016 at UC Merced
 * Lecture 2
-*** Terminology
+** Terminology
 Replacement = Scholarly convention usage of the term
 - 3000 BC (Before Christ, Julian Calendar)
 - Replacement: 3000 BCE (Before Common Era)
-  
+
 - 1492 AD (Anno Domini)
 - Replacement: 1492 CE (Common Era)
 
@@ -20,7 +20,7 @@ Main Idea: Life prior to arrival of the Europeans 15th century
 - Significance: Mounds provide evidence of a past civilization that existed | surplus of calories because of large amounts of labor
 - Natives actively reshaped the environment (Cahokia)
 - Natives CREATED corn, plant cross-breeding
-*** Theories of Mounds Creations 
+*** Theories of Mounds Creations
 - Mounds NOT constructed from the Natives - Thomas Jefferson 1782
 - Aztecs, Incas, Mayans, Olmec = Creators? THEORIES
 - Egyptains, Phoenicians, Indian Hindu Pilgrims, Vikings, Welsh????
@@ -39,7 +39,7 @@ Main Idea: Life prior to arrival of the Europeans 15th century
 - Arrival: 16,000 BCE
 - The Americas were the last continents to recieve human habitation
 - People arrived from Pangea Land Bridges & Boats
-- Before the arrival of Columbus threre were over 2,000 different cultures & natives already living in the Americas
+- Before the arrival of Columbus there were over 2,000 different cultures & natives already living in the Americas
 **** Europe & The Americas
 - Europe was focused on fixed agriculture, circa 1491
 - Beginnings of a merchant class, proto-capitalism | Technology, Land Ownership
@@ -52,3 +52,138 @@ Main Idea: Life prior to arrival of the Europeans 15th century
 - Norse people (Leif Erikson) discovered the Americas first | 986 CE
 
 - Fun Fact: Printing press created 1450 during The Renaissance era
+* Lecture 3
+** The Columbian Exchange & the Spanish Empire
+- Leif Ericson the first European to discover "Vineland"
+- Columbs, born in Italy, Libson; Sailed to England, Ireland, & Iceland
+- Greeks knew Earth was round, & educated Europeans knew
+
+- Columbs' pitch about faster sails was adopted by Spain
+- 1492, Columbs' first voyage "the Reconquista", spread Catholicism around the world
+- Columbs' voyages were NOT about discovery, they were about conquering & spreading empire & religion
+- Columbus' dumbass thought Asia was right around the corner of Europe, but he discovered America
+- Columbus wanted to bring back Pangea & rediscover/put back every continent into contact
+
+- Tomato  | Originated in America, then transfered to Europe
+- & Potato, Tabacco, Pumpkins, Beans, Pineapples, Chile Peppers, Avacados,
+  Coffee, Sugar, Rice
+- Horse | Europe -> America
+- Swine/Pigs
+
+- Europeans brought the "Virgin Soil Epidemic"; diseases where natives had no immunity
+- 14-17 Epedemics after Columbs; 95% of the native population of America died 130 years after Columbs
+- Incubation Period = Disease spreads along trade networks far beyond areas of first contact
+- Vast majority of Native Americas that died from a disease never actually made contact or saw a European
+- 75% of the Indian population had died off before the "Mayflower" dropped the anchor
+- European disease lead to European ignorance to the natives & made the Aztecs destroy political leaders,
+  thoughts of the Gods hating them
+
+- Hernando de Soto, 1540; Spanish traveled landed in Georiga, introduced the Peach
+- Columbs lead to the extinction to 1/5th of the human race at the time 1.4 billion people
+* Lecture 4
+- Cite from the "books"?
+- Chicago-Style Citations for the page assignment # TODO
+- Spanish saw the Americas "discovery" as a mission for military conquest
+- Hernan Cortes led the conquest to Tenochtilan (1519-1521) | Mexico City Area (now)
+- Downsides for the Spanish: Steel Armor in the Heat, shitty guns
+- Upsides: Horses, intemidation of technology
+- How the Spanish won: Disease spread, indigenous allies to take over the Aztec Empire
+** Spanish Empire in the Americas
+- Colonization of the Americas primarly involved extraction missions to return everything the Spain
+- Spanish stole all the gold from the Aztecs
+- Spanish Missions (buildings/missions) were brutal places for indigenous people
+- Spanish goal wasn't meant for "nation building", they loved Spain as it was (at first)
+- Spain controlled all of the Caribbean & most of North & South America (exceeded the size of the Roman Empire)
+- Spain colonized the Philippines 1565
+*** Casta System: Peninsulares & Creoles
+- Peninsulares = Pure Spanish Blood
+- Creoles = Spanish x Americas mix
+- Mestizo = Spanish x Indian mix
+
+- "Frontier of Inclusion" = Natives are integrated into Spanish societies in the New World, yet at a lower role
+- "Pigmentocracy"         = A racial system whereby whiter skin directly related to high social stats & honor
+** Other Powers
+- The Pope of Portugal helped broker an arrangement to divide the world between them & Spain
+  to avoid conflicts (Portugal got less than half of Brazil)
+- France lands in Canada | 10 Year gap between Americas discovery voyages
+- French still trying to find a route towards Asia lmao | Why everyone wanna go to Asia?
+- Canada had Beavers, French used their fur which was very vaulable | Hunting them was hard ashhh
+- French made a deal with the Indigenous people to build an alliance & conduct trade
+- Ongoing war in North America (Michigan/Canada) | French made a deal with the Hurons to defeat the Iroquois
+  to gain an alliance for fur (1609)
+* Lecture 5
+** French Cont.
+- French arrived in very small numbers like the Spanish (all Male)
+- Early French traders created mixed race communities with the Natives
+- French super small compared to the British & Spain colonies
+** Other Powers Cont.
+- Martin Luther created: "The Protestant Reformation", Catholic Curch critisisms
+- Henry VII created the Church of England because he wanted a divorce (1529)
+- Huguenots = French Protestants
+- Huguenots sent to Florida to colonize
+- Spanish sends Pedro Menendez de Aviles to wipe out the Florida France Fort
+** English
+- John Cabot first English voyage 14something
+- Roanoke, 1585 first private company; Everyone in America went to Supply ships & left lmao
+- 2nd attempt 1587, colony disappeared (there was also a war between the British & Spain)
+- Jamestown, 1607: Colony is located in Virginia, it is very swampy, surrounded by disease, &
+  the English pick a fight with the indengious people from the area
+- 1608-1610 | Starving disaster (cannibalism)
+- Powhatan, Thomas Gates, & George Percy, 1610, Powhatan escapes the English, Gates sends
+  Percy army to attack their settlement
+- Jamestown massacre, English sends ships & attack all of the natives & English sided with the natives
+- The people sent to Jamestown were just rich people, so none of them would be able to survive
+- The English while conquering Ireland in the 16th century deemed the Irish as the "Wild Irish"
+- English create their own hiearchy like the Spanish
+- English was at constant warfare because of their racism vs the natives
+- Main reason the English was colonizing is because they were broke as hellll compared to the rest of the world
+- What saved Virginia: John Rolfe grew Tabacco back in England, 1612
+- First enslaved Africans arrive in Jamestown, 1619 (trying to save economy)
+- The Beggars Act 1597, called for the transportation of felons & vagrants
+  to work on plantations in the colonies
+- Virginia was always advertised as amazing & a paradise
+- Answer to labor problem in Virginia: Sheep, Landlords get rid of peasants/slaves & sell the wool of sheep
+- Between 1530-1630 peasants lost all of their land, creating the homelessness problem | A lot of peasants
+  revolted during this time
+* Discussion 2 (Land)
+- English sent men to Indian land
+- English forced their religion & ideals upon the Indians (forced to be called Christian Indians)
+- Conflict between Kings, English forcing their kings upon the colony during interactions to the indians
+- Indians expressed concern/complaints & were punished by the English
+- When agreements of selling land came along the English would always say it was more than they agreed to
+  forcing the creation of a contract via writing (Indians cant read english)
+- English would make the indians drunk & force them into bargains that they know theyd win
+
+- Abenaki had a war with American settlers forcing them to align with France | reason: arms & amunition
+- Abenaki drawed a line (land) where English werent welcome
+- Prisoner translater
+- Abenaki had political support of others which made them more intimidating
+-
+
+* Lecture 6
+- Enclosure: Landlords turn out the peasants & raise sheep to sell their wool on the world market
+- Enclosure lead to many revolts against the English (peasants v landlords)
+- English government have 50 "free" acres of land to any English person who could travel to settle there,
+  but most couldnt afford the ticket to Virginia
+- Indentured Servitude: the English poor sign contracts that bind them to a fixed term of labor (7 years),
+  to get to Virginia
+- March 22, 1622 Powhatan attacks Jamestown killing 1/3 of the Jamestown population
+- 1624, King James I & the English government bought out Virginia Company & took control of Jamestown
+- Virginia's deaths outpaced births until 1700, & most of Virginia's population came from immigration
+- Average lifespan of English 21, most men in Virginia
+- No one went to Church in Virginia so Priests would have to start growing Tabacco themselves
+- Government was very weak in Jamestown, everything was organized to the growing of Tabacco
+- Virginia: Hyper-Competition, Hyper-Capitalism, Hyper-Individualism; Social institutions were weak &
+  individualism was strong
+- Puritan Theology: Predestination = Idea of = God predetermined if youre going into heaven or hell |
+  this idea lessened the power of Bishops, Cardinals, & Popes
+- Puritans: are English Protestants who believe that the Church of England is still too close to Catholicism &
+  isnt pure enough | heavy of everything being predetermined
+
+- St. Augustine (354-430 C.E.):
+- Invisible Church: Everyone living, dead, or yet to be born is destined for salvation
+- Visible Church: All currently living persons who profess to believe in Christianity
+- Puritans hated current English society
+- Puritans in the Americas: Plymouth, Massachusetts Bay | Both started by private companies
+- Puritans still hostile with the natives
+- 1637 Puritans massarce the Pequots at Fort Mystic May 1637

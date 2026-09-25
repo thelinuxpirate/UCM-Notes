@@ -1,3 +1,27 @@
+* Lecture 1
+- <- store value (variable)
+- c() combines values (list)
+- R is case-sensitive
+# note: for the course dont always reinstall packages
+#+begin_src R
+# install for user | only if pkg is missing
+install.packages("tidyverse")
+# load
+library(tidyverse)
+# usage of function from r library
+ggplot::ggplot
+
+vars <- c(2, 4, 6)
+mean(vars)
+print(vars[1])
+#?mean
+#+end_src
+** Basic Plot Function
+#+begin_src R
+plot(
+  # src_here
+)
+#+end_src
 * Chapter 1 | The 30 Percent Rule
 ** Intro
 - Sara Menker switched from an energy commodities trader to being a self-taught data scientist BY developing a digital mindset
@@ -7,8 +31,8 @@
 - Books Goal: Provide Digital Literacy to the reader | Sara's story as an intro/example
 ** Definitions
 - Data       = Any information that can be used for reference, analysis, or computation
-- Technology = creates, captures, transforms, transmits, or stores data
-- Mindset    = set of approaches we use to make sense of the world
+- Technology = Creates, captures, transforms, transmits, or stores data
+- Mindset    = Set of approaches we use to make sense of the world
 ** Approaches (Redefinied for a Digital Mindset)
 - Collaboration
 - Computation
@@ -25,37 +49,27 @@
 Input -> Set of Rules -> Output
 # Algorithm^
 #+end_src
-* Part 1: Collaboration
-** Working with Machines
-*** How artificial intelligence works
-- Single-Task AI | Algorithm at excution
-  - Can mimic human-like cognititve functions
-- Used for tasks & automation
-*** How Do Machines Learn?
-- Machines learn/trained via numbers
-- Takes features ("list of data") to build classification systems
-- Reapeats process multiple times & are correct upon mistakes
-*** Deep Learning  
-- Deep Learning = A type of machine learning where the algorithm
-  doesn’t need to be told about the important features
-  - Discovers features on its own by using a neural network
-*** Machine Learning Vs. Deep Learning
-- Deep Learning uses "labeled data", training, & decides on the most
-  relevant features
-  - Images used with Deep Learning = Computer Vision
-- Machine Learning given a script has data where options are prelevant
-  - In order for Machine learning to generate new rules, it had to be trained 
-  - ^Titled = Supervised Learning
-- Unsurpervised Learning = Algorithm automatically sorts through the data
-- Reinforcement Learning = ML Algorithm constantly corrected based on feedback
-*** Technology Stack
-- Technology Stack = all the hardware & software systems needed to develop & run a single application
-- Front End (Client Side) = User-interaction data sources & technologies
-- Back End (Server Side) = Underlying infrastructure that powers the client side
-- Middleware = Hidden translation layer, enables communication between database & data
-*** Treat AI Like a Machine
-Teaming with AI conditions:
-- AI Must be Transparent
-- AI must be reliable
+* Lecture 2
+# TODO: Set up Posit Assistant
+* Lecture 4
+- Computational Intelligence: Intelligence for a computer modeled after human intelligence
+- Modern Computational Data Platforms: Example, Biotech
+* Chapter 2 | Cultivating Your Digital Presence
+** Communicating via your Digital Presence
+- Digital Presence = Learning strategies to compensate for the mutual
+  knowledge problem
+- Jenna's career turned digital
+- Problem with Hybrid work: You feel like youre working solo instead of with a team
+- Good Digital Presence in the workplace = Giving a lot of status updates to your coworkers
+- Common Fear via Hybrid work: Over-communication | Take-away: Not an issue
 
-pg. 57
+- Ambiguity in communication:
+  - Not always flawed, create a sense of curiosity which can be useful
+  - Payoff: Make your messages worth the wait or else your later messages will be tuned out
+  - Timing: Don't fill in the person too soon, give the message time to strike more curiosity
+  - Frequency: Don't do this to the same person more than every 4-6 months
+
+- Meta knowledge = Is Knowledge of ‘Who Knows What’ and ‘Who Knows Whom’
+- Passable Trust = whether somebody is trustworthy enough to share information with
+
+pg. 72

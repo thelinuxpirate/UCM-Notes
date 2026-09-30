@@ -136,6 +136,46 @@ Standard Deviation = s
 - Bar Charts (for sub groups not the whole pie)
 - Doc Charts
 - Heat Map
+* Lecture 9 | Path Digrams, Venn Diagrams & Sets, Basic Rules of Probability
+- Path Diagram = Takes 2 variables & measures them
+  - X Y   (Unrelated)
+  - X<->Y (Correlated)
+  - X->Y  (Causal, y(x))
+  - X->(Z)->Y y(x) | outcome can differ based on Z,
+    Z is an interaction term, Z changes the magnitude of the causal relationship
+    - Example: y = income, x = education, z = gender
+** Intro to Sets & Probability
+- (Sample - Space) = All observed outcomes that are "possible"
+- Event/Subset = Pre-defined set of outcomes or a single outcome (a singleton)
+- Outcome = A singular measured phenomenon for one unit of observation
+
+- S = Sample Space
+Example (Six-Sided Die):
+- S = {1, 2, 3, 4, 5, 6} 
+- A = Low = {1, 2, 3}
+- B = Odds = {1, 3, 5}
+- C = {4,5} (Event)
+*** Relationships between Sets
+Example
+- D = A+B = the union of sets A & B (U) = the set of all unique outcomes, that occur in either A or B
+- D = {1, 2, 3, 5} (Union)
+- E = intersection of sets A & B = A∩B = all of the outcomes that are simultaneously in both (A&B)
+- E = {1, 3}
+
+- Independence = when the intersection has no outcomes in it, the events (sets) are independent
+- Null Set = No overlaps (EX: A∩C) = No outcomes in it
+
+- Complimentarity = A' = compliment of A = all outcomes in Sample Space (S) not in A
+- S - A = A' 
+- A' = {4, 5, 6}
+- A' = High (outcomes) = everything above the median
+
+- Mutual Exclusivity = Any sets are mutually exclusive if an outcome will occur in only one of the sets 
+  - Must be independent 
+  - Must also be compliments (guranteed M.E)
+*** Probability (Likelihood)
+- Pr(A) = (# of outcomes in A)/(# of outcomes in S)
+  - (in our example) = 3/6 
 * Lab Session Sep. 29th
 ** Predicting Example Outcome
 - 1: Pr(1/10)                = 1/10
